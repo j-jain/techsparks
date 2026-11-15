@@ -1,0 +1,543 @@
+1. J Hypertens. 2022 Jul 1;40(7):1380-1387. doi: 10.1097/HJH.0000000000003157.
+
+Home blood pressure monitoring schedule: optimal and minimum based on 2122 
+individual participants' data.
+
+Kyriakoulis KG(1), Ntineri A(1), Niiranen TJ(2)(3)(4), Lindroos A(2)(3), Jula 
+A(2), Schwartz C(5), Kollias A(1), Andreadis EA(6), McManus RJ(5), Stergiou 
+GS(1).
+
+Author information:
+(1)Hypertension Center STRIDE-7, National and Kapodistrian University of Athens, 
+School of Medicine, Third Department of Medicine, Sotiria Hospital, Athens, 
+Greece.
+(2)National Institute for Health and Welfare.
+(3)Department of Internal Medicine, University of Turku.
+(4)Division of Medicine, Turku University Hospital, Turku, Finland.
+(5)Green Templeton College & Nuffield Department of Primary Care Health 
+Sciences, University of Oxford, Oxford, UK.
+(6)Hypertension and Cardiovascular Disease Prevention Center, Evangelismos 
+General Hospital, Athens, Greece.
+
+OBJECTIVES: Home blood pressure (HBP) monitoring has become a primary method for 
+hypertension diagnosis and management. This analysis aimed to investigate the 
+optimal and minimum schedule for HBP monitoring.
+METHODS: A retrospective analysis of cross-sectional data was performed, which 
+involved HBP and 24-h ambulatory blood pressure (ABP) monitoring in adults 
+performed within the context of clinical studies in Finland, Greece and UK. 
+Participants with six to seven HBP monitoring days and at least 12 HBP readings 
+were included. The stability of HBP was assessed by evaluating the average value 
+of an increasing number of readings and its variability (SD). Its association 
+with awake ABP was also assessed.
+RESULTS: Data from 2122 participants were analysed (mean age 53.9 ± 11.3 years, 
+males 53%, treated 34%). A progressive HBP decline was observed in succeeding 
+days, reaching a plateau after day 3. Day 1 HBP was higher than in the next days 
+by about 2.8/1.4 mmHg (systolic/diastolic, P < 0.001). In a 3-day HBP monitoring 
+schedule, the exclusion of day 1 reduced average HBP and SD, with a clinically 
+important HBP decline in 115 participants (5%) and different hypertension 
+diagnosis in 120 participants (6%). For schedules including more than three HBP 
+monitoring days, the exclusion of day 1 had negligible impact. The 3-day average 
+HBP was strongly correlated with awake ABP, with a little improvement 
+thereafter.
+CONCLUSION: These data support the recommendation for 7 days of HBP monitoring 
+with a minimum of 3 days. Readings of the first day should be discarded, 
+particularly when the minimum 3-day monitoring schedule is obtained (average 
+readings of second and third day).
+
+Copyright © 2022 Wolters Kluwer Health, Inc. All rights reserved.
+
+DOI: 10.1097/HJH.0000000000003157
+PMID: 35762478 [Indexed for MEDLINE]
+
+
+2. Hypertension. 2023 Oct;80(10):2169-2177. doi:
+10.1161/HYPERTENSIONAHA.123.21118.  Epub 2023 Aug 14.
+
+Use of Different Blood Pressure Thresholds to Reduce the Number of Home Blood 
+Pressure Monitoring Days Needed for Detecting Hypertension.
+
+Bradley CK(1), Choi E(1), Abdalla M(2), Mizuno H(1)(3), Lam M(1), Cepeda M, 
+Sangapalaarachchi D(1), Liu J(1), Muntner P(4), Kario K(3), Viera AJ(5), 
+Schwartz JE(2)(6), Shimbo D(1).
+
+Author information:
+(1)The Columbia Hypertension Center and Lab (C.K.B., E.C., H.M., M.L., M.C., 
+D.S., J.L., D.S.), Columbia University Irving Medical Center, New York, NY.
+(2)Center for Behavioral Cardiovascular Health (M.A., J.E.S.), Columbia 
+University Irving Medical Center, New York, NY.
+(3)Division of Cardiovascular Medicine, Department of Medicine, Jichi Medical 
+University School of Medicine, Tochigi, Japan (H.M., K.K.).
+(4)Department of Epidemiology, School of Public Health, University of Alabama at 
+Birmingham (P.M.).
+(5)Department of Family Medicine and Community Health, Duke University School of 
+Medicine, Durham, NC (A.J.V.).
+(6)Department of Psychiatry and Behavioral Sciences, Stony Brook University, NY 
+(J.E.S.).
+
+BACKGROUND: Home blood pressure (BP) monitoring over a 7-day period is 
+recommended to confirm the diagnosis of hypertension.
+METHODS: We determined upper and lower home BP thresholds with >90% positive 
+predictive value and >90% negative predictive value using 1 to 6 days of 
+monitoring to identify high home BP (systolic BP ≥130 mm Hg or diastolic BP ≥80 
+mm Hg) based on 7 days of home BP monitoring. The sample included 361 adults 
+from the Improving the Detection of Hypertension Study who were not taking 
+antihypertensive medication. We used two 7-day periods, at least 3 days apart, 
+the first being a sampling period and the second a reference period. For each 
+number of days in the sampling period, we determined the percentage of 
+participants who had a high likelihood of having (>90% positive predictive 
+value) or not having (>90% negative predictive value) high BP and would not need 
+to continue home BP monitoring. Only the participants in an uncertain category 
+(ie, positive predictive value ≤90% and negative predictive value ≤90%) after 
+each day were carried forward to the next day of home BP monitoring.
+RESULTS: Of the 361 participants (mean [SD] age of 41.3 [13.2] years; 60.4% 
+women), 38.0% had high home BP during the reference period. There were 63.7%, 
+17.1%, 10.5%, 3.3%, 3.6%, and 1.4% participants who would not need to continue 
+after 1, 2, 3, 4, 5, and 6 days of monitoring.
+CONCLUSIONS: In most people, high home BP can be identified or excluded with a 
+high degree of confidence with 3 days or less of monitoring.
+
+DOI: 10.1161/HYPERTENSIONAHA.123.21118
+PMCID: PMC10530450
+PMID: 37577827 [Indexed for MEDLINE]
+
+Conflict of interest statement: Disclosures None.
+
+
+3. Am J Hypertens. 2019 Mar 16;32(4):350-364. doi: 10.1093/ajh/hpy185.
+
+Schedules for Self-monitoring Blood Pressure: A Systematic Review.
+
+Hodgkinson JA(1), Stevens R(2), Grant S(3), Mant J(4), Bray EP(5), Hobbs FDR(2), 
+Martin U(6), Schwartz C(2), McCartney D(2), O'Mahony R(7), Perera-Salazar R(2), 
+Roberts N(8), Stevens S(2), Williams B(9), McManus RJ(2).
+
+Author information:
+(1)Institute of Applied Health Research, University of Birmingham, Birmingham, 
+UK.
+(2)Nuffield Department of Primary Care Health Sciences, University of Oxford, 
+Oxford, UK.
+(3)School of Clinical Sciences, University of Bristol, Bristol, UK.
+(4)Primary Care Unit, Strangeways Research Laboratory, Department of Public 
+Health and Primary Care, University of Cambridge, Cambridge, UK.
+(5)Stroke Research Unit. School of Nursing, University of Central Lancashire, 
+Preston, UK.
+(6)Institute of Clinical Sciences, University of Birmingham, Birmingham, UK.
+(7)Centre for Guidelines, National Institute for Health and Care Excellence, 
+London, UK.
+(8)Bodleian Health Care Libraries, Knowledge Centre, Oxford, UK.
+(9)NIHR UCL Hospitals Biomedical Research Centre, Institute of Cardiovascular 
+Science, University College London, London, UK.
+
+Comment in
+    Am J Hypertens. 2019 Mar 16;32(4):327-328. doi: 10.1093/ajh/hpz002.
+
+BACKGROUND: Self-monitoring of blood pressure better predicts prognosis than 
+clinic measurement, is popular with patients, and endorsed in hypertension 
+guidelines. However, there is uncertainty over the optimal self-monitoring 
+schedule. We therefore aimed to determine the optimum schedule to predict future 
+cardiovascular events and determine "true" underlying blood pressure.
+METHODS: Six electronic databases were searched from November 2009 (updating a 
+National Institute for Health and Care Excellence [NICE] systematic review) to 
+April 2017. Studies that compared aspects of self-monitoring schedules to either 
+prognosis or reliability/reproducibility in hypertensive adults were included. 
+Data on study and population characteristics, self-monitoring regime, and 
+outcomes were extracted by 2 reviewers independently.
+RESULTS: From 5,164 unique articles identified, 25 met the inclusion criteria. 
+Twelve studies were included from the original NICE review, making a total of 37 
+studies. Increasing the number of days of measurement improved prognostic power: 
+72%-91% of the theoretical maximum predictive value (asymptotic maximum hazard 
+ratio) was reached by 3 days and 86%-96% by 7 days. Increasing beyond 3 days of 
+measurement did not result in better correlation with ambulatory monitoring. 
+There was no convincing evidence that the timing or number of readings per day 
+had an effect, or that ignoring the first day's measurement was necessary.
+CONCLUSIONS: Home blood pressure should be measured for 3 days, increased to 7 
+only when mean blood pressure is close to a diagnostic or treatment threshold. 
+Other aspects of a monitoring schedule can be flexible to facilitate patient 
+uptake of and adherence with self-monitoring.
+
+© The Author(s) 2019. Published by Oxford University Press on behalf of American 
+Journal of Hypertension, Ltd.
+
+DOI: 10.1093/ajh/hpy185
+PMCID: PMC6420684
+PMID: 30668627 [Indexed for MEDLINE]
+
+
+4. J Am Heart Assoc. 2018 Oct 16;7(20):e008658. doi: 10.1161/JAHA.118.008658.
+
+Number of Measurements Needed to Obtain a Reliable Estimate of Home Blood 
+Pressure: Results From the Improving the Detection of Hypertension Study.
+
+Bello NA(1), Schwartz JE(1)(2), Kronish IM(1), Oparil S(3), Anstey DE(1), Wei 
+Y(4), Cheung YKK(4), Muntner P(5), Shimbo D(1).
+
+Author information:
+(1)1 Department of Medicine Columbia University Irving Medical Center New York 
+NY.
+(2)2 Department of Psychiatry Stony Brook University Stony Brook NY.
+(3)3 Department of Medicine University of Alabama at Birmingham AL.
+(4)4 Department of Biostatistics Mailman School of Public Health New York NY.
+(5)5 Department of Epidemiology University of Alabama at Birmingham AL.
+
+Background Obtaining out-of-clinic blood pressure ( BP ) measurements to confirm 
+a diagnosis of hypertension is recommended before initiating treatment. There 
+are few empiric data available on the number of measurements required to 
+reliably estimate BP on home BP monitoring ( HBPM ). Methods and Results We 
+analyzed data from 316 community-dwelling adults not taking antihypertensive 
+medication from the IDH (Improving the Detection of Hypertension) study who 
+performed HBPM for 14 days. The reliability of home BP measurements was assessed 
+using the intraclass correlation coefficient and as the percentage of 
+participants with an absolute difference in home BP <10 mm Hg between weeks. The 
+reliability of home hypertension status was assessed by the κ statistic. In the 
+IDH study, 13.6% of participants had clinic hypertension and 18.0% had home 
+hypertension. Mean home systolic and diastolic BP exhibited excellent 
+reliability and sufficient agreement using the average of 2 morning and 2 
+evening BP readings for a minimum of 2 days of HBPM and a single morning and 
+single evening or 2 morning BP readings for a minimum of 3 days. For diagnosing 
+home hypertension, there was good agreement with a minimum of 3 days of HBPM 
+using the average of 2 morning and 2 evening measurements or a single morning 
+and single evening BP reading. A greater number of days was required for the 
+other HBPM strategies. Conclusions Using the average of morning and evening 
+readings, 3 days of HBPM are needed to reliably estimate mean home BP and 
+diagnose out-of-clinic hypertension.
+
+DOI: 10.1161/JAHA.118.008658
+PMCID: PMC6474964
+PMID: 30371272 [Indexed for MEDLINE]
+
+
+5. J Hypertens. 2021 Sep 1;39(9):1742-1767. doi: 10.1097/HJH.0000000000002922.
+
+Home blood pressure monitoring: methodology, clinical relevance and practical 
+application: a 2021 position paper by the Working Group on Blood Pressure 
+Monitoring and Cardiovascular Variability of the European Society of 
+Hypertension.
+
+Parati G(1)(2), Stergiou GS(3), Bilo G(1)(2), Kollias A(3), Pengo M(1), Ochoa 
+JE(1), Agarwal R(4), Asayama K(5)(6)(7), Asmar R(8), Burnier M(9), De La Sierra 
+A(10), Giannattasio C(2)(11), Gosse P(12), Head G(13), Hoshide S(14), Imai Y(7), 
+Kario K(14), Li Y(15), Manios E(16), Mant J(17), McManus RJ(18), Mengden T(19), 
+Mihailidou AS(20), Muntner P(21), Myers M(22), Niiranen T(23)(24), Ntineri A(3), 
+O'Brien E(25), Octavio JA(26), Ohkubo T(5)(7), Omboni S(27)(28), Padfield P(29), 
+Palatini P(30), Pellegrini D(31), Postel-Vinay N(32), Ramirez AJ(33), Sharman 
+JE(34), Shennan A(35), Silva E(36), Topouchian J(37), Torlasco C(1), Wang 
+JG(15), Weber MA(38), Whelton PK(39), White WB(40), Mancia G(41); Working Group 
+on Blood Pressure Monitoring and Cardiovascular Variability of the European 
+Society of Hypertension.
+
+Author information:
+(1)Istituto Auxologico Italiano, IRCCS, San Luca Hospital, Department of 
+Cardiovascular Neural and Metabolic Sciences.
+(2)Department of Medicine and Surgery, University of Milano-Bicocca, Milan, 
+Italy.
+(3)Hypertension Center STRIDE-7, National and Kapodistrian University of Athens, 
+School of Medicine, Third Department of Medicine, Sotiria Hospital, Athens, 
+Greece.
+(4)Division of Nephrology, Department of Medicine, Indiana University School of 
+Medicine and Richard L. Roudebush Veterans Administration Medical Center, 
+Indianapolis, Indiana, USA.
+(5)Department of Hygiene and Public Health, Teikyo University School of 
+Medicine, Tokyo, Japan.
+(6)Research Unit Hypertension and Cardiovascular Epidemiology, KU Leuven 
+Department of Cardiovascular Sciences, University of Leuven, Leuven, Belgium.
+(7)Tohoku Institute for the Management of Blood Pressure, Sendai, Japan.
+(8)Foundation-Medical Research Institutes, Geneva.
+(9)Service of Nephrology and Hypertension, University Hospital, Lausanne, 
+Switzerland.
+(10)Hypertension Unit, Department of Internal Medicine, Hospital Mútua Terrassa, 
+University of Barcelona, Barcelona, Spain.
+(11)Cardiology IV, 'A. De Gasperis" Department, ASTT GOM Niguarda Ca' Granda.
+(12)Cardiology/Hypertension Unit Saint André Hospital. University Hospital of 
+Borfeaux, France.
+(13)Baker Heart and Diabetes Institute, Melbourne, Victoria, Australia.
+(14)Division of Cardiovascular Medicine, Department of Medicine, Jichi Medical 
+University School of Medicine, Tochigi, Japan.
+(15)Shanghai Institute of Hypertension, Ruijin Hospital, Shanghai Jiaotong 
+University School of Medicine, Shanghai, China.
+(16)Department of Clinical Therapeutics, National and Kapodistrian University of 
+Athens, School of Medicine, Alexandra Hospital, Athens, Greece.
+(17)Primary Care Unit, Department of Public Health & Primary Care, University of 
+Cambridge, Cambridge, UK.
+(18)Nuffield Department of Primary Care Health Sciences, University of Oxford, 
+Oxford, UK.
+(19)Kerckhoff Clinic, Rehabilitation, ESH Excellence Centre, Bad Nauheim, 
+Germany.
+(20)Department of Cardiology and Kolling Institute, Royal North Shore Hospital, 
+St Leonards Faculty of Medicine and Health Sciences, Macquarie University, 
+Sydney, Australia.
+(21)Hypertension Research Center, Department of Epidemiology, School of Public 
+Health, University of Alabama at Birmingham, Birmingham, Alabama, USA.
+(22)Schulich Heart Program, Sunnybrook Health Sciences Centre and Department of 
+Medicine, University of Toronto, Toronto, Canada.
+(23)Department of Medicine, Turku University Hospital and University of Turku.
+(24)Finnish Institute for Health and Welfare, Helsinki, Finland.
+(25)The Conway Institute, University College Dublin, Dublin, Ireland.
+(26)Experimental Cardiology, Department of Tropical Medicine Institute, 
+Universidad Central de Venezuela, Venezuela.
+(27)Clinical Research Unit, Italian Institute of Telemedicine, Varese, Italy.
+(28)Department of Cardiology, Sechenov First Moscow State Medical University, 
+Moscow, Russian Federation.
+(29)Department of Medical Sciences, University of Edinburgh, Edinburgh, UK.
+(30)Studium Patavinum, Department of Medicine. University of Padova, Padua.
+(31)Cardiovascular Department, ASST Papa Giovanni XXIII, Bergamo, Italy.
+(32)Hypertension Unit, European Georges Pompidou Hospital, Paris, France.
+(33)Arterial Hypertension and Metabolic Unit, University Hospital, Fundacion 
+Favaloro, Argentina.
+(34)Menzies Institute for Medical Research, College of Health and Medicine, 
+University of Tasmania, Hobart, Australia.
+(35)Department of Women and Children's Health, School of Life Course Sciences, 
+FoLSM, Kings College London, UK.
+(36)Research Institute of Cardiovascular Diseases of the University of Zulia, 
+Venezuelan Foundation of Arterial Hypertension. Maracaibo, Venezuela.
+(37)Diagnosis and Therapeutic Center, Paris-Descartes University, AP-HP, Hotel 
+Dieu, Paris, France.
+(38)Division of Cardiovascular Medicine, Downstate College of Medicine, State 
+University of New York, Brooklyn, New York, USA.
+(39)Department of Epidemiology, Tulane University, School of Public Health and 
+Tropical Medicine, New Orleans, Lousiana.
+(40)Cardiology Center, University of Connecticut School of Medicine, Farmington, 
+Connecticut, USA.
+(41)University Milano-Bicocca, Milan, Italy.
+
+The present paper provides an update of previous recommendations on Home Blood 
+Pressure Monitoring from the European Society of Hypertension (ESH) Working 
+Group on Blood Pressure Monitoring and Cardiovascular Variability sequentially 
+published in years 2000, 2008 and 2010. This update has taken into account new 
+evidence in this field, including a recent statement by the American Heart 
+association, as well as technological developments, which have occurred over the 
+past 20 years. The present document has been developed by the same ESH Working 
+Group with inputs from an international team of experts, and has been endorsed 
+by the ESH.
+
+Copyright © 2021 Wolters Kluwer Health, Inc. All rights reserved.
+
+DOI: 10.1097/HJH.0000000000002922
+PMCID: PMC9904446
+PMID: 34269334 [Indexed for MEDLINE]
+
+Conflict of interest statement: R.A. has received honoraria from Akebia, 
+AstraZeneca, Bayer, Boehringer Ingelheim, Chinook, Diamedica, Merck, Reata, 
+Relypsa and Sanofi, and has received royalties from UpToDate. R.A. is supported 
+by National Heart Lung and Blood Institute grant R01 HL126903 and U.S. Veterans 
+Administration grant I01CX001753. K.A. has received Research support from Omron 
+Healthcare. P.G. has received Research grants from Recor Medical. K.K. has 
+received Research grants from Omron Healthcare Fukuda Denshi, and A&D, Otsuka 
+Medical. Y.L. has received research grants from A&D, Bayer, Omron and lecture 
+fees from A&D, Daiichi Sankyo, Omron and Takeda. J.M. is part of the Scientific 
+Advisory Board for BMS/Pfizer. R.J.M., grant income from NIHR; telemonitoring 
+development and evaluation with Omron (all fees to his institution); speaker 
+expenses ESH 2019 and ASN 2019. Honoraria paid to his institution/College. 
+A.S.M. has received research funding from Novartis & honorarium from Merck, 
+Servier, Hillrom. T.O. has received research grant from Omron Healthcare Co.Ltd. 
+S.O. is a scientific consultant of Biotechmed Ltd. provider of telemedicine 
+services. G.P. has received honoraria for lectures by OMRON Healthcare, SERVIER, 
+Sanofi, FIDIA. P.P. has received honoraria for validation Studies from 
+MIcrolife, AND, and Hingmed. G.S. has conducted validation studies for various 
+manufacturers of blood pressure measurement technologies and advised 
+manufacturers on device and software development. J.-G.W. has received grants 
+from Omron. M.A.W. is a consultant for Medtronic; ReCor; Ablative Solutions; 
+Urovant; Regeneron; Bayer. W.B.W. is a cardiovascular safety consultant (DSMB, 
+CV endpoints committees) for Astra-Zeneca, Bristol-Myers Squibb, 
+Takeda-Millenium; and editor for UptoDate (Wolters Kluwer).
+
+
+6. J Hypertens. 2025 Jun 1;43(6):970-975. doi: 10.1097/HJH.0000000000003975. Epub
+ 2025 Feb 20.
+
+Day-to-day blood pressure variability in older persons - optimizing measurement.
+
+Palsma T(1), Claassen JAHR(1)(2), Richard E(3)(4), De Heus RAA(1)(5).
+
+Author information:
+(1)Department of Geriatrics, Radboud University Medical Center.
+(2)Department of Geriatrics, Donders Institute for Brain, Cognition and 
+Behaviour, Radboud University Medical Center.
+(3)Department of Neurology, Donders Institute for Brain, Cognition and 
+Behaviour, Radboud University Medical Centre.
+(4)Department of Public and Occupational Health, Amsterdam UMC, University of 
+Amsterdam, Amsterdam.
+(5)Department of Primary and Community Care, Radboud University Medical Center, 
+Nijmegen, The Netherlands.
+
+BACKGROUND: Higher blood pressure variability (BPV) is associated with adverse 
+clinical outcomes but lack of standardized methodology hampers clinical 
+translation. Day-to-day BPV seems most promising for an older population, 
+especially those with cognitive impairment. This study aimed to determine the 
+optimal number of measurements for obtaining day-to-day BPV in this population.
+METHODS: We included 127 patients attending the geriatric outpatient memory 
+clinic, who measured blood pressure for seven days, morning and evening. Blood 
+pressure measurements of day one were discarded and the coefficient of variation 
+was calculated to assess BPV. Concordance between 7-day BPV (CV 7days ) and a 
+reduced number of measurement days (CV 6days - CV 3days ) was analysed with 
+Bland-Altman plots, intraclass correlation coefficient (ICC), and an a priori 
+determined threshold of a 95% confidence interval (CI) with a lower bound of 
+0.75.
+RESULTS: The mean age was 74.6 ± 8.6 years, 49% were female, and had dementia or 
+mild cognitive impairment in 37% and 33% respectively. Reducing the number of 
+measurement days resulted in wider limits of agreement. Concordance decreased 
+when reducing measurement days and reached our predefined threshold with four 
+measurement days (ICC = 0.91, 95% CI = 0.87 - 0.93). BPV derived from five 
+measurement days showed a similar relationship with diagnosis as our reference 
+BPV value obtained with seven days.
+CONCLUSION: Our results suggest that systolic home blood pressure should be 
+measured in the morning and evening for at least five consecutive days in 
+duplicate to obtain reliable day-to-day BPV values in older adults with 
+cognitive complaints.
+
+Copyright © 2025 The Author(s). Published by Wolters Kluwer Health, Inc.
+
+DOI: 10.1097/HJH.0000000000003975
+PMCID: PMC12052059
+PMID: 40008517 [Indexed for MEDLINE]
+
+Conflict of interest statement: There are no conflicts of interest.
+
+
+7. J Am Coll Cardiol. 2020 Dec 22;76(25):2911-2922. doi: 
+10.1016/j.jacc.2020.10.039.
+
+Reliability of Office, Home, and Ambulatory Blood Pressure Measurements and 
+Correlation With Left Ventricular Mass.
+
+Schwartz JE(1), Muntner P(2), Kronish IM(3), Burg MM(4), Pickering TG(3), Bigger 
+JT(3), Shimbo D(3).
+
+Author information:
+(1)Center for Behavioral Cardiovascular Health, Columbia University Irving 
+Medical Center, New York, New York, USA; Department of Psychiatry and Behavioral 
+Sciences, Stony Brook University, Stony Brook, New York, USA. Electronic 
+address: Joseph.Schwartz@StonyBrookMedicine.edu.
+(2)Department of Epidemiology, School of Public Health, University of Alabama at 
+Birmingham, Birmingham, Alabama, USA.
+(3)Center for Behavioral Cardiovascular Health, Columbia University Irving 
+Medical Center, New York, New York, USA.
+(4)Departments of Internal Medicine and Anesthesiology, Yale University School 
+of Medicine, New Haven, Connecticut, USA.
+
+Comment in
+    J Am Coll Cardiol. 2020 Dec 22;76(25):2923-2925. doi: 
+10.1016/j.jacc.2020.10.031.
+    J Am Coll Cardiol. 2021 Apr 20;77(15):1955-1956. doi: 
+10.1016/j.jacc.2020.12.070.
+    J Am Coll Cardiol. 2021 Apr 20;77(15):1956-1957. doi: 
+10.1016/j.jacc.2021.02.018.
+
+BACKGROUND: Determining the reliability and predictive validity of office blood 
+pressure (OBP), ambulatory BP (ABP), and home BP (HBP) can inform which is best 
+for diagnosing hypertension and estimating risk of cardiovascular disease.
+OBJECTIVES: This study aimed to assess the reliability of OBP, HBP, and ABP and 
+evaluate their associations with left ventricular mass index (LVMI) in untreated 
+persons.
+METHODS: The Improving the Detection of Hypertension (IDH) study, a 
+community-based observational study, enrolled 408 participants who had OBP 
+assessed at 3 visits, and completed 3 weeks of HBP, 2 24-h ABP recordings, and a 
+2-dimensional echocardiogram. Mean age was 41.2 ± 13.1 years, 59.5% were women, 
+25.5% African American, and 64.0% Hispanic.
+RESULTS: The reliability of 1 week of HBP, 3 office visits with mercury 
+sphygmomanometry, and 24-h ABP were 0.938, 0.894, and 0.846 for systolic and 
+0.918, 0.847, and 0.843 for diastolic BP, respectively. The correlations among 
+OBP, HBP, and ABP, corrected for regression dilution bias, were 0.74 to 0.89. 
+After multivariable adjustment including OBP and 24-h ABP, 10 mm Hg higher 
+systolic and diastolic HBP were associated with 5.07 (standard error [SE]: 1.48) 
+and 3.92 (SE: 2.14) g/m2 higher LVMI, respectively. After adjustment for HBP, 
+neither systolic or diastolic OBP nor ABP was associated with LVMI.
+CONCLUSIONS: OBP, HBP, and ABP assess somewhat distinct parameters. Compared 
+with OBP (3 visits) or 24-h ABP, systolic and diastolic HBP (1 week) were more 
+reliable and more strongly associated with LVMI. These data suggest that 1 week 
+of HBP monitoring may be the best approach for diagnosing hypertension.
+
+Copyright © 2020 American College of Cardiology Foundation. Published by 
+Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.jacc.2020.10.039
+PMCID: PMC7749264
+PMID: 33334418 [Indexed for MEDLINE]
+
+Conflict of interest statement: Author Disclosures The Improving the Detection 
+of Hypertension study was supported by program project grant P01-HL47540 
+(Principal Investigator: Dr. Schwartz) from the National Heart, Lung, and Blood 
+Institute of the National Institutes of Health. The content is solely the 
+responsibility of the authors and does not necessarily represent the official 
+view of the National Institutes of Health. The authors have reported that they 
+have no relationships relevant to the content of this paper to disclose.
+
+
+8. J Clin Hypertens (Greenwich). 2022 Sep;24(9):1161-1173. doi:
+10.1111/jch.14549.
+
+Standardized home blood pressure monitoring: Rationale behind the 722 protocol.
+
+Lin HJ(1), Pan HY(2), Chen CH(3)(4), Cheng HM(5)(6)(7)(8), Chia YC(9)(10), 
+Sogunuru GP(11)(12), Tay JC(13), Turana Y(14), Verma N(15), Kario K(16), Wang 
+TD(17).
+
+Author information:
+(1)Cardiovascular, Center and Division of Cardiology, Department of Internal 
+Medicine, National Taiwan University Hospital, Taipei, Taiwan.
+(2)Department of Internal Medicine, National Taiwan University Hospital Yun-Lin 
+Branch, Yun-Lin County, Taiwan.
+(3)Department of Medicine, National Yang Ming Chiao Tung University College of 
+Medicine, Taipei, Taiwan.
+(4)Department of Medical Education, Taipei Veterans General Hospital, Taipei, 
+Taiwan.
+(5)Institute of Public Health and Community Medicine Research Center, National 
+Yang-Ming University School of Medicine, Taipei, Taiwan.
+(6)Department of Medicine, Division of Cardiology, Taipei Veterans General 
+Hospital, Taipei, Taiwan.
+(7)Faculty of Medicine, National Yang-Ming University School of Medicine, 
+Taipei, Taiwan.
+(8)Department of Medical Education, Center for Evidence-based Medicine, Taipei 
+Veterans General Hospital, Taipei, Taiwan.
+(9)Department of Medical Sciences, School of Medical and Life Sciences, Sunway 
+University, Selangor Darul Ehsan, Bandar Sunway, Malaysia.
+(10)Department of Primary Care Medicine, Faculty of Medicine, University of 
+Malaya, Kuala Lumpur, Malaysia.
+(11)Fortis Hospitals, Chennai, Tamil Nadu, India.
+(12)College of Medical Sciences, Kathmandu University, Bharatpur, Nepal.
+(13)Department of General Medicine, Tan Tock Seng Hospital, Singapore City, 
+Singapore.
+(14)Department of Neurology, School of Medicine and Health Sciences, Atma Jaya 
+Catholic University of Indonesia, Jakarta, Indonesia.
+(15)Asia Pacific Society of Hypertension, Department of Physiology, King 
+George's Medical University, Lucknow, India.
+(16)Division of Cardiovascular Medicine, Department of Medicine, Jichi Medical 
+University School of Medicine, Tochigi, Japan.
+(17)Cardiovascular Center and Divisions of Cardiology and Hospital Medicine, 
+Department of Internal Medicine, National Taiwan University Hospital and 
+National Taiwan University College of Medicine, Taipei, Taiwan.
+
+Home blood pressure (HBP) has been recognized as a prognostic predictor for 
+cardiovascular events, and integrated into the diagnosis and management of 
+hypertension. With increasing accessibility of oscillometric blood pressure 
+devices, HBP monitoring is easy to perform, more likely to obtain reliable 
+estimation of blood pressures, and feasible to document long-term blood pressure 
+variations, compared to office and ambulatory blood pressures. To obtain 
+reliable HBP estimates, a standardized HBP monitoring protocol is essential. A 
+consensus regarding the optimal duration and frequency of HBP monitoring is yet 
+to be established. Based on the current evidence, the "722" protocol, which 
+stands for two measurements on one occasion, two occasions a day (morning and 
+evening), and over a consecutive of 7 days, is most commonly used in clinical 
+studies and recommended in relevant guidelines and consensus documents. HBP 
+monitoring based on the "722" protocol fulfills the minimal requirement of blood 
+pressure measurements to achieve agreement of blood pressure classifications 
+defined by office blood pressures and to predict cardiovascular risks. In the 
+Taiwan HBP consensus, the frequency of repeating the "722" protocol of HBP 
+monitoring according to different scenarios of hypertension management, from 
+every 2 weeks to 3 months, is recommended. It is reasonable to conclude that the 
+"722" protocol for HBP monitoring is clinically justified and can serve as a 
+basis for standardized HBP monitoring.
+
+© 2022 The Authors. The Journal of Clinical Hypertension published by Wiley 
+Periodicals LLC.
+
+DOI: 10.1111/jch.14549
+PMCID: PMC9532917
+PMID: 36196472 [Indexed for MEDLINE]
+
+Conflict of interest statement: YCC has received unrestricted educational grants 
+from Viatris and Omron and from Medtronic for activities of the Malaysian 
+Society for World Action on Salt, Sugar and Health (MyWASSH); and also has 
+received speaker honoraria from Medtronic, Astra‐Zeneca, Omron and Xepa‐Sol. KK 
+reports research grant and consulting fees from A&D, Omron Healthcare, Fukuda 
+Denshi; honoraria from Omron Healthcare; Participation in Advisory board of 
+Fukuda Denshi, outside the submitted work.

@@ -1,0 +1,64 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="shot" content="1400x485@2">
+<title>Same loop, new protocol</title>
+<link rel="stylesheet" href="kit.css">
+<style>
+  .sheet { gap: 22px; }
+  .tbl { display: grid; grid-template-columns: 210px repeat(4, 1fr); gap: 0; border: 1px solid var(--line); border-radius: 16px; overflow: hidden; }
+  .tbl > div { padding: 14px 16px; border-bottom: 1px solid var(--line); border-left: 1px solid var(--line); font-size: 15.5px; line-height: 1.38; }
+  .tbl > div.rh { border-left: 0; font-size: 12.5px; font-weight: 700; letter-spacing: .07em; text-transform: uppercase; color: var(--muted); background: #f8fafc; display: flex; align-items: center; }
+  .tbl > div.ch { background: #f8fafc; font-size: 18px; font-weight: 700; }
+  .tbl > div.ch small { display: block; font-size: 12.5px; font-weight: 700; letter-spacing: .07em; text-transform: uppercase; margin-top: 2px; }
+  .tbl > div.now { background: #f0fdfa; }
+  .tbl > div.ch.now { background: var(--accent-soft); color: var(--accent-2); }
+  .tbl > div.ch.next small { color: var(--blue); }
+  .tbl > div.ch.later small { color: var(--muted); }
+  .tbl > div.last { border-bottom: 0; }
+  .tbl .pill { font-size: 13px; }
+  .corner { background: #f8fafc; }
+</style>
+</head>
+<body>
+<div class="sheet">
+  <div>
+    <div class="title">Same loop, new protocol</div>
+    <div class="sub">The engine, the approval screen and the chat stay the same. Only the home signal and the protocol file change.</div>
+  </div>
+
+  <div class="tbl">
+    <div class="rh corner"></div>
+    <div class="ch now">High blood pressure<small>Now</small></div>
+    <div class="ch next">Insulin in type 2 diabetes<small>Next</small></div>
+    <div class="ch later">Heart failure<small>Later</small></div>
+    <div class="ch later">Warfarin<small>Later</small></div>
+
+    <div class="rh">Home signal</div>
+    <div class="now">Blood pressure cuff</div>
+    <div>Fasting sugar meter</div>
+    <div>Weight, pressure, pulse and lab values</div>
+    <div>INR meter</div>
+
+    <div class="rh">Published rule the engine runs</div>
+    <div class="now">State hypertension protocol</div>
+    <div>"2 units every 3 days" basal rule</div>
+    <div>Guideline up-titration</div>
+    <div>Dosing table</div>
+
+    <div class="rh">Who approves</div>
+    <div class="now">Doctor or health worker</div>
+    <div>Doctor or health worker</div>
+    <div>Doctor or health worker</div>
+    <div>Doctor or health worker</div>
+
+    <div class="rh last">Status</div>
+    <div class="now last"><span class="pill ok">Built tonight</span></div>
+    <div class="last"><span class="pill blue">Rule tested on paper</span></div>
+    <div class="last"><span class="pill" style="background:#f1f5f9;color:#475569">Roadmap</span></div>
+    <div class="last"><span class="pill" style="background:#f1f5f9;color:#475569">Roadmap</span></div>
+  </div>
+</div>
+</body>
+</html>

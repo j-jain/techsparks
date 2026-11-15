@@ -1,0 +1,58 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="shot" content="1300x440@2">
+<title>India cascade</title>
+<link rel="stylesheet" href="kit.css">
+<style>
+  .chart { display: flex; flex-direction: column; gap: 20px; }
+  .g { display: grid; grid-template-columns: 200px 1fr; column-gap: 18px; align-items: center; }
+  .gh { font-size: 18px; font-weight: 650; color: var(--ink); text-align: right; }
+  .g.on .gh { color: var(--accent-2); }
+  .pair { display: flex; flex-direction: column; gap: 4px; }
+  .r { display: grid; grid-template-columns: 70px 1fr; align-items: center; column-gap: 10px; height: 28px; }
+  .yr { font-size: 14px; color: var(--muted); text-align: right; }
+  .yr.on { color: var(--accent-2); font-weight: 650; }
+  .trk { display: flex; align-items: center; }
+  .bar { height: 24px; background: #cbd5e1; border-radius: 0 4px 4px 0; flex: none; }
+  .bar.on { background: var(--accent); }
+  .val { margin-left: 10px; font-size: 17px; font-weight: 700; color: var(--ink); }
+</style>
+</head>
+<body>
+<div class="sheet">
+  <div>
+    <div class="title">In nine programme districts, about one in five people with high blood pressure is controlled</div>
+    <div class="sub">Adults with high blood pressure in the first nine districts of India's hypertension programme, per cent.</div>
+  </div>
+
+  <!-- scale: 100 per cent = 900px -->
+  <div class="chart">
+    <div class="g">
+      <div class="gh">Know they have it</div>
+      <div class="pair">
+        <div class="r"><div class="yr">2018-19</div><div class="trk"><div class="bar" style="width:472px"></div><span class="val">52.4</span></div></div>
+        <div class="r"><div class="yr on">2023-24</div><div class="trk"><div class="bar on" style="width:527px"></div><span class="val">58.5</span></div></div>
+      </div>
+    </div>
+    <div class="g">
+      <div class="gh">On treatment</div>
+      <div class="pair">
+        <div class="r"><div class="yr">2018-19</div><div class="trk"><div class="bar" style="width:367px"></div><span class="val">40.8</span></div></div>
+        <div class="r"><div class="yr on">2023-24</div><div class="trk"><div class="bar on" style="width:402px"></div><span class="val">44.7</span></div></div>
+      </div>
+    </div>
+    <div class="g on">
+      <div class="gh">Under control</div>
+      <div class="pair">
+        <div class="r"><div class="yr">2018-19</div><div class="trk"><div class="bar" style="width:131px"></div><span class="val">14.5</span></div></div>
+        <div class="r"><div class="yr on">2023-24</div><div class="trk"><div class="bar on" style="width:191px"></div><span class="val">21.2</span></div></div>
+      </div>
+    </div>
+  </div>
+
+  <div class="foot">Surveys of 7,047 and 7,324 adults with high blood pressure. No comparison districts. Sources: D1-01-F10, D1-01-F11.</div>
+</div>
+</body>
+</html>

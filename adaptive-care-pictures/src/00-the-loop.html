@@ -1,0 +1,55 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="shot" content="1400x690@2">
+<title>The loop</title>
+<link rel="stylesheet" href="kit.css">
+<style>
+  .lane { display: flex; flex-direction: column; gap: 10px; }
+  .lane .name { font-size: 15px; font-weight: 700; letter-spacing: .06em; text-transform: uppercase; }
+  .lane.a .name { color: var(--muted); }
+  .lane.b .name { color: var(--accent-2); }
+  .back { display: flex; align-items: center; gap: 12px; font-size: 15px; font-weight: 600; color: var(--accent-2); }
+  .back .bar { flex: 1; height: 0; border-top: 3px solid var(--accent); position: relative; }
+  .back .bar::before { content: ""; position: absolute; left: -2px; top: -9px; border: 8px solid transparent; border-right-color: var(--accent); border-left: 0; }
+</style>
+</head>
+<body>
+<div class="sheet">
+  <div>
+    <div class="title">Monitoring stops at the reading. A therapy loop changes the treatment.</div>
+    <div class="sub">The challenge asks for care that keeps adapting between appointments, "beyond monitoring and reminders". The difference is whether the reading comes back as a changed treatment.</div>
+  </div>
+
+  <div class="lane a">
+    <div class="name">Monitoring and reminders</div>
+    <div class="flow">
+      <div class="node"><div class="k">1 Sense</div><div class="v">A home reading</div><div class="d">Pressure cuff, sugar meter, sensor.</div></div>
+      <div class="arrow">&rarr;</div>
+      <div class="node"><div class="k">2 Show</div><div class="v">A chart and a nudge</div><div class="d">"Your reading is high. Take your medicine."</div></div>
+      <div class="arrow">&rarr;</div>
+      <div class="node off"><div class="k">3 Decide</div><div class="v">Waits for the next visit</div><div class="d">Weeks or months away, if the patient goes.</div></div>
+      <div class="arrow">&rarr;</div>
+      <div class="node off"><div class="k">4 Act</div><div class="v">Same treatment</div><div class="d">The dose that was not working stays.</div></div>
+    </div>
+  </div>
+
+  <div class="lane b">
+    <div class="name">Therapy loop</div>
+    <div class="flow">
+      <div class="node on"><div class="k">1 Sense</div><div class="v">A home reading</div><div class="d">The same cheap device.</div></div>
+      <div class="arrow on">&rarr;</div>
+      <div class="node on"><div class="k">2 Decide</div><div class="v">A protocol proposes the next step</div><div class="d">Software applies a published treatment protocol to this patient's readings.</div></div>
+      <div class="arrow on">&rarr;</div>
+      <div class="node on"><div class="k">3 Confirm</div><div class="v">A clinician approves</div><div class="d">One tap by a doctor or trained health worker. Unsafe cases are sent up.</div></div>
+      <div class="arrow on">&rarr;</div>
+      <div class="node on"><div class="k">4 Act</div><div class="v">The treatment changes</div><div class="d">New dose, next medicine, new exercise level, in the patient's language.</div></div>
+    </div>
+    <div class="back"><span>5 Learn: the next readings show whether it worked, and the loop runs again</span><div class="bar"></div></div>
+  </div>
+
+  <div class="foot">Diagram for the SPARK Night research pack. It shows the idea only; no data.</div>
+</div>
+</body>
+</html>

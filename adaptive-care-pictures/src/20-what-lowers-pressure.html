@@ -1,0 +1,51 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="shot" content="1300x680@2">
+<title>What lowers pressure</title>
+<link rel="stylesheet" href="kit.css">
+<style>
+  .chart { display: flex; flex-direction: column; gap: 6px; }
+  .grp { font-size: 13px; font-weight: 700; letter-spacing: .07em; text-transform: uppercase; color: var(--muted); margin-top: 14px; padding-bottom: 4px; border-bottom: 1px solid var(--line); }
+  .grp:first-child { margin-top: 0; }
+  .grp.on { color: var(--accent-2); }
+  .r { display: grid; grid-template-columns: 520px 1fr; align-items: center; column-gap: 18px; height: 36px; }
+  .lab { font-size: 15.5px; color: var(--ink-2); text-align: right; line-height: 1.2; }
+  .trk { position: relative; height: 22px; display: flex; align-items: center; }
+  .bar { height: 22px; background: #cbd5e1; border-radius: 0 4px 4px 0; flex: none; }
+  .bar.on { background: var(--accent); }
+  .val { margin-left: 10px; font-size: 17px; font-weight: 700; color: var(--ink); white-space: nowrap; }
+  .val .ne { font-size: 13.5px; font-weight: 600; color: var(--muted); margin-left: 6px; }
+  .axis { display: grid; grid-template-columns: 520px 1fr; column-gap: 18px; }
+  .axis .base { border-left: 2px solid var(--ink-2); height: 0; }
+</style>
+</head>
+<body>
+<div class="sheet">
+  <div>
+    <div class="title">Readings lower blood pressure most when they change the medicine</div>
+    <div class="sub">Extra fall in systolic pressure against usual care, mmHg. Separate trials with different patients and end points, so compare groups, not single bars.</div>
+  </div>
+
+  <!-- scale: 10 mmHg = 600px -->
+  <div class="chart">
+    <div class="grp">Reading or reminder only</div>
+    <div class="r"><div class="lab">Self-monitoring alone (pooled trials)</div><div class="trk"><div class="bar" style="width:60px"></div><span class="val">1.0<span class="ne">no effect</span></span></div></div>
+    <div class="r"><div class="lab">Reminder app (MedISAFE-BP)</div><div class="trk"><div class="bar" style="width:30px"></div><span class="val">0.5<span class="ne">no effect</span></span></div></div>
+
+    <div class="grp">App coaching, no medicine change</div>
+    <div class="r"><div class="lab">Lifestyle app, Japan (HERB-DH1, 24-hour pressure at 12 weeks)</div><div class="trk"><div class="bar" style="width:144px"></div><span class="val">2.4</span></div></div>
+
+    <div class="grp on">Home readings lead to a medicine change</div>
+    <div class="r"><div class="lab">Doctor adjusts from home readings (TASMINH4)</div><div class="trk"><div class="bar on" style="width:210px"></div><span class="val">3.5</span></div></div>
+    <div class="r"><div class="lab">Same, with telemonitoring (TASMINH4)</div><div class="trk"><div class="bar on" style="width:282px"></div><span class="val">4.7</span></div></div>
+    <div class="r"><div class="lab">Patient adjusts by an agreed plan (TASMINH2)</div><div class="trk"><div class="bar on" style="width:324px"></div><span class="val">5.4</span></div></div>
+    <div class="r"><div class="lab">Patient adjusts by an agreed plan, high-risk patients (TASMIN-SR)</div><div class="trk"><div class="bar on" style="width:552px"></div><span class="val">9.2</span></div></div>
+    <div class="r"><div class="lab">Pharmacist adjusts from home readings (HyperLink, 12 months)</div><div class="trk"><div class="bar on" style="width:582px"></div><span class="val">9.7</span></div></div>
+  </div>
+
+  <div class="foot">Sources: fact IDs D1-01-F01 to F07 in the research notes. Checked at source 13 Nov 2026.</div>
+</div>
+</body>
+</html>

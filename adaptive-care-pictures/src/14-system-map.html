@@ -1,0 +1,89 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="shot" content="1400x735@2">
+<title>System map</title>
+<link rel="stylesheet" href="kit.css">
+<style>
+  .sheet { gap: 20px; }
+  .sheet .sub { max-width: 1300px; }
+  .map { display: grid; grid-template-columns: 1fr 36px 1.25fr 36px 1fr 36px 1fr; align-items: stretch; }
+  .col { border: 2px solid var(--line); border-radius: 16px; padding: 16px; gap: 10px; background: #fff; }
+  .col.eng { border-color: var(--accent); background: #f0fdfa; }
+  .col.cl { border-color: #93c5fd; background: #eff6ff; }
+  .col .k { font-size: 13px; font-weight: 700; letter-spacing: .08em; text-transform: uppercase; color: var(--muted); }
+  .col.eng .k { color: var(--accent-2); }
+  .col.cl .k { color: var(--blue); }
+  .item { border: 1px solid var(--line); background: #fff; border-radius: 10px; padding: 9px 12px; }
+  .item .v { font-size: 15.5px; font-weight: 650; }
+  .item .d { font-size: 13px; color: var(--ink-2); line-height: 1.35; margin-top: 1px; }
+  .eng .item { border-color: #99f6e4; }
+  .cl .item { border-color: #bfdbfe; }
+  .num { display: inline-block; width: 20px; height: 20px; border-radius: 50%; background: var(--accent); color: #fff; font-size: 11px; font-weight: 700; text-align: center; line-height: 20px; margin-right: 6px; vertical-align: 1px; }
+  .ar { align-self: center; text-align: center; font-size: 28px; color: var(--accent); }
+  .files { display: grid; grid-template-columns: 200px 1fr; gap: 16px; align-items: center; border: 2px dashed #99f6e4; border-radius: 16px; padding: 14px 18px; }
+  .files .lab { font-size: 14px; font-weight: 700; color: var(--accent-2); line-height: 1.35; }
+  .files .lab span { display: block; font-weight: 400; color: var(--ink-2); font-size: 13px; }
+  .chips { display: grid; grid-template-columns: repeat(4, 1fr); gap: 12px; }
+  .chip { border-radius: 10px; padding: 9px 12px; background: #fff; border: 1px solid var(--line); font-size: 14px; font-weight: 600; display: flex; gap: 10px; align-items: center; }
+  .chip .doc { width: 22px; height: 27px; flex: none; border: 2px solid var(--accent); border-radius: 3px; position: relative; background: #fff; }
+  .chip .doc::after { content: ""; position: absolute; left: 4px; right: 4px; top: 6px; height: 9px; border-top: 2px solid #5eead4; border-bottom: 2px solid #5eead4; }
+  .chip.later { color: var(--muted); border-style: dashed; }
+  .chip.later .doc { border-color: #cbd5e1; }
+  .chip.later .doc::after { border-color: #e2e8f0; }
+</style>
+</head>
+<body>
+<div class="sheet">
+  <div>
+    <div class="title">The home blood-pressure step loop</div>
+    <div class="sub">A reading taken at home becomes a proposed dose change, checked by rules, approved by a clinician and sent back in the patient's language.</div>
+  </div>
+
+  <div class="map">
+    <div class="col">
+      <div class="k">1 Home</div>
+      <div class="item"><div class="v">Any cheap cuff</div><div class="d">Reading sent by Bluetooth</div></div>
+      <div class="item"><div class="v">Phone photo</div><div class="d">Of the cuff's screen, when there is no Bluetooth</div></div>
+      <div class="item"><div class="v">Clip on the cuff</div><div class="d">Arm position and stillness</div></div>
+      <div class="item"><div class="v">Medicine check</div><div class="d">"Did you take it every day?" in chat</div></div>
+    </div>
+    <div class="ar">&rarr;</div>
+    <div class="col eng">
+      <div class="k">2 Engine</div>
+      <div class="item"><div class="v"><span class="num">a</span>Reading rules</div><div class="d">Throw out bad readings; average the valid ones over 7 days</div></div>
+      <div class="item"><div class="v"><span class="num">b</span>Titrate or support</div><div class="d">Medicine missed: support the patient, do not raise the dose</div></div>
+      <div class="item"><div class="v"><span class="num">c</span>Protocol state machine</div><div class="d">Knows the current step, the next step and the safety branches</div></div>
+      <div class="item"><div class="v"><span class="num">d</span>Proposal with reasons</div><div class="d">Next step plus the facts that led to it</div></div>
+    </div>
+    <div class="ar">&rarr;</div>
+    <div class="col cl">
+      <div class="k">3 Clinic</div>
+      <div class="item"><div class="v">Doctor or trained health worker</div><div class="d">Sees the proposal, the readings and the reasons</div></div>
+      <div class="item"><div class="v">Approves, changes or calls</div><div class="d">One tap to approve. Urgent cases go to the top.</div></div>
+      <div class="item"><div class="v">Safety branches</div><div class="d">180/110 or more: refer. In pregnancy: no telmisartan or chlorthalidone.</div></div>
+    </div>
+    <div class="ar">&rarr;</div>
+    <div class="col">
+      <div class="k">4 Back home</div>
+      <div class="item"><div class="v">New dose in the patient's language</div><div class="d">Sent on a chat app, with what to watch for</div></div>
+      <div class="item"><div class="v">Next check in 30 days</div><div class="d">Readings continue and the loop runs again</div></div>
+      <div class="item"><div class="v">Side effects reported in chat</div><div class="d">Swelling or dizziness goes straight back to the clinic</div></div>
+    </div>
+  </div>
+
+  <div class="files">
+    <div class="lab">Protocol files the engine loads<span>Rules are data, not code. Swap the file, keep the loop.</span></div>
+    <div class="chips">
+      <div class="chip"><span class="doc"></span>Gujarat hypertension protocol (tonight)</div>
+      <div class="chip"><span class="doc"></span>Nigeria losartan protocol (tonight)</div>
+      <div class="chip"><span class="doc"></span>Basal insulin rule (paper test)</div>
+      <div class="chip later"><span class="doc"></span>Heart failure (later)</div>
+    </div>
+  </div>
+
+  <div class="band ok" style="font-weight:600">Every proposal carries its reasons. A clinician approves every change.</div>
+</div>
+</body>
+</html>

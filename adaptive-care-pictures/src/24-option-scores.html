@@ -1,0 +1,40 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="shot" content="1300x505@2">
+<title>Option scores</title>
+<link rel="stylesheet" href="kit.css">
+<style>
+  .chart { display: flex; flex-direction: column; gap: 8px; }
+  .r { display: grid; grid-template-columns: 430px 1fr; align-items: center; column-gap: 18px; height: 36px; }
+  .lab { font-size: 16px; color: var(--ink-2); text-align: right; }
+  .lab.on { color: var(--accent-2); font-weight: 700; }
+  .trk { display: flex; align-items: center; }
+  .bar { height: 24px; background: #cbd5e1; border-radius: 0 4px 4px 0; flex: none; }
+  .bar.on { background: var(--accent); }
+  .val { margin-left: 10px; font-size: 17px; font-weight: 700; color: var(--ink); }
+</style>
+</head>
+<body>
+<div class="sheet">
+  <div>
+    <div class="title">Seven options scored on the same six tests</div>
+    <div class="sub">Weighted score out of 5. Weights: proof 25, market 20, buildable tonight 20, gap 15, deep-tech 10, low risk 10. Our estimate.</div>
+  </div>
+
+  <!-- scale: 5 = 640px -->
+  <div class="chart">
+    <div class="r"><div class="lab on">Home blood-pressure step loop</div><div class="trk"><div class="bar on" style="width:557px"></div><span class="val">4.35</span></div></div>
+    <div class="r"><div class="lab">Insulin dose guidance, type 2 diabetes</div><div class="trk"><div class="bar" style="width:429px"></div><span class="val">3.35</span></div></div>
+    <div class="r"><div class="lab">Adaptive home rehabilitation</div><div class="trk"><div class="bar" style="width:429px"></div><span class="val">3.35</span></div></div>
+    <div class="r"><div class="lab">Heart-failure dose loop</div><div class="trk"><div class="bar" style="width:397px"></div><span class="val">3.10</span></div></div>
+    <div class="r"><div class="lab">Breathing plan with inhaler sensor and air quality</div><div class="trk"><div class="bar" style="width:390px"></div><span class="val">3.05</span></div></div>
+    <div class="r"><div class="lab">Warfarin self-dosing</div><div class="trk"><div class="bar" style="width:371px"></div><span class="val">2.90</span></div></div>
+    <div class="r"><div class="lab">Weight-loss injection dose companion</div><div class="trk"><div class="bar" style="width:346px"></div><span class="val">2.70</span></div></div>
+  </div>
+
+  <div class="foot">OUR ESTIMATE. Reasons in part I.</div>
+</div>
+</body>
+</html>

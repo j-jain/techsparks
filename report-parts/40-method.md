@@ -1,0 +1,23 @@
+## 5. Method and limits
+
+**Rounds and budgets.** Round 1 (discovery): ten Sonnet agents, one per field, 20 web searches each, 194 of ~200 used (one agent was cut off at 14 when the shared pool ran dry). Round 2 (verification, sizing, design): five Opus agents, three problems each, 40 searches each; the Bio & Health run stalled and saved nothing, and was rerun with 35 searches; 233 searches across six runs. Round 3 (claims check and build plans): three Sonnet claims-checkers (31, 24 and 41 searches) and two Opus build-planners (16 and 20); 132 searches. Page fetches, YouTube watch-page reads and the Reddit archive API were not counted against the search budgets. Total: about 560 searches and several hundred page fetches, all on 3 November 2026.
+
+**What each round could and could not reach.**
+- *Reddit* was blocked for every tool in this session (reddit.com and old.reddit.com, for search, fetch and the built-in browser). Upvote and comment counts come from the Arctic Shift archive API, which captures scores near posting time and therefore understates them (posts from October 2026 show a score of 1), and from post-snapshot mirrors; several archive windows timed out, so lists are incomplete, not exhaustive. Where Round 1 could not get Reddit counts at all, tiers were set on item counts, surveys and government numbers, and Rounds 2 and 3 filled in what they could.
+- *YouTube* view counts were read from watch pages or YouTube's own search-results page on 3 November 2026, and in a few cases from the returnyoutubedislike API (which lags the page by up to ~15 %). The built-in browser rendered YouTube only while the application window was open; Invidious and the redlib Reddit mirrors sat behind bot checks that were not completed.
+- *Instagram* is not fetchable and was not used; viral Instagram posts appear only through news coverage.
+- *LocalCircles* surveys are opt-in panels (tens of thousands of responses, not probability samples) and are reported as such; three of the lift surveys are from this one pollster.
+- *Paywalled or blocked pages* (Business Standard, Deccan Herald, Elevator World, India Code, several PDFs) are marked "(snippet)" in the notes; their figures were cross-checked against a second outlet where possible and otherwise flagged.
+
+**Exclusions.** Agriculture, fresh produce, food supply chain, cold chain, packhouses, hydroponics, dairy and fisheries-as-food were excluded before research began, as were the author's existing ideas (factory-floor voice capture, kitchen-waste weighing, produce grading and shelf life, factory CCTV for food plants). Two Round 1 items sat next to that boundary (stray cattle on highways; fishermen crossing the maritime boundary) and were not advanced for other reasons. Nothing agri-related is on the longlist.
+
+**Known gaps the report does not paper over.**
+- Reddit engagement for the lift, tanker and panic-button problems was never obtained (archive API failures).
+- Round 1 never searched investment and trading-app scams (77 % of 2025 cyber-fraud losses); Round 2 judged them a text, app and payee problem rather than a call problem.
+- Several finalists' key unknowns need a phone call or a bench test, not a search: will a hospital pharmacy pay ₹1,000 a month for goods-receipt screening; will a Noida AOA pay ₹300 a month per lift; will a bank sponsor a call-guard; can a cheap spectral sensor separate two white tablets; what is re-ID accuracy on Indian street dogs. Each is named in its section and in the build plan's pre-event checklist.
+- The Rule 10 exemption text of the Telecommunications (Radio Equipment Possession Authorisation) Rules 2026 for GNSS receivers could not be read; receive-only hardware plus the ₹1,000 testing authorisation is the safe assumption.
+- Market figures are bottom-up arithmetic on sourced unit counts and stated price assumptions; published market reports disagreed with each other by 5–9× wherever two were found, and are quoted with that caveat.
+
+**Files.** `research_notes\R0-brief.md` (the contract every agent worked to), `R1-01` to `R1-10` (field sweeps), `T1-triage.md` (longlist and the 15 chosen), `R2-brief.md` and `R2-01` to `R2-05` (verification notes with the (a)–(g) structure), `T2-triage.md` (scores and finalists), `R3-brief.md`, `R3-claims-01` to `-03` (every claim's status), `R3-build-01` and `-02` (hour-by-hour plans, bills of materials, test protocols, demo scripts, thesis outlines), `R3-proof-routes.md` (what the browser could and could not reach). The source register lists every URL cited in a finalist section with its type, date, what it supports and its Round 3 status.
+
+*Research and write-up: 3 November 2026. Event: 13–14 November 2026. Registration closes 6 November 2026.*

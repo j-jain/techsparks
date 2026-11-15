@@ -1,0 +1,714 @@
+1. JAMA. 2023 Apr 11;329(14):1160-1169. doi: 10.1001/jama.2023.3322.
+
+Heterogeneity in Blood Pressure Response to 4 Antihypertensive Drugs: A 
+Randomized Clinical Trial.
+
+Comment in
+    JAMA. 2023 Apr 11;329(14):1153-1154. doi: 10.1001/jama.2023.3704.
+    Ann Intern Med. 2023 Aug;176(8):JC87. doi: 10.7326/J23-0052.
+
+IMPORTANCE: Hypertension is the leading risk factor for premature death 
+worldwide. Multiple blood pressure-lowering therapies are available but the 
+potential for maximizing benefit by personalized targeting of drug classes is 
+unknown.
+OBJECTIVE: To investigate and quantify the potential for targeting specific 
+drugs to specific individuals to maximize blood pressure effects.
+DESIGN, SETTING, AND PARTICIPANTS: A randomized, double-blind, repeated 
+crossover trial in men and women with grade 1 hypertension at low risk for 
+cardiovascular events at an outpatient research clinic in Sweden. Mixed-effects 
+models were used to assess the extent to which individuals responded better to 
+one treatment than another and to estimate the additional blood pressure 
+lowering achievable by personalized treatment.
+INTERVENTIONS: Each participant was scheduled for treatment in random order with 
+4 different classes of blood pressure-lowering drugs (lisinopril 
+[angiotensin-converting enzyme inhibitor], candesartan [angiotensin-receptor 
+blocker], hydrochlorothiazide [thiazide], and amlodipine [calcium channel 
+blocker]), with repeated treatments for 2 classes.
+MAIN OUTCOMES AND MEASURES: Ambulatory daytime systolic blood pressure, measured 
+at the end of each treatment period.
+RESULTS: There were 1468 completed treatment periods (median length, 56 days) 
+recorded in 270 of the 280 randomized participants (54% men; mean age, 64 
+years). The blood pressure response to different treatments varied considerably 
+between individuals (P < .001), specifically for the choices of lisinopril vs 
+hydrochlorothiazide, lisinopril vs amlodipine, candesartan vs 
+hydrochlorothiazide, and candesartan vs amlodipine. Large differences were 
+excluded for the choices of lisinopril vs candesartan and hydrochlorothiazide vs 
+amlodipine. On average, personalized treatment had the potential to provide an 
+additional 4.4 mm Hg-lower systolic blood pressure.
+CONCLUSIONS AND RELEVANCE: These data reveal substantial heterogeneity in blood 
+pressure response to drug therapy for hypertension, findings that may have 
+implications for personalized therapy.
+TRIAL REGISTRATION: ClinicalTrials.gov Identifier: NCT02774460.
+
+DOI: 10.1001/jama.2023.3322
+PMCID: PMC10091169
+PMID: 37039792 [Indexed for MEDLINE]
+=====
+2. Lancet. 1999 Jun 12;353(9169):2008-13. doi: 10.1016/s0140-6736(98)07614-4.
+
+Optimisation of antihypertensive treatment by crossover rotation of four major 
+classes.
+
+Comment in
+    Lancet. 1999 Sep 18;354(9183):1028; author reply 1028-9. doi: 
+10.1016/S0140-6736(99)00167-1.
+    Lancet. 1999 Sep 18;354(9183):1028; author reply 1028-9. doi: 
+10.1016/S0140-6736(05)76630-7.
+
+BACKGROUND: Most comparisons of antihypertensive drugs are undertaken in 
+parallel groups. We undertook a crossover rotation of the four main classes of 
+antihypertensive drugs, in untreated young hypertensive patients, to assess the 
+response rate with monotherapy achieved by a systematic rotation.
+METHODS: 56 patients, mean blood pressure 161/98 mm Hg, entered the rotation, of 
+whom 36 received all four monthly cycles of treatment with an 
+angiotensin-converting-enzyme (ACE) inhibitor (A), beta-blocker (B), 
+calcium-channel blocker (C), and diuretic (D). Each patient's best drug was then 
+repeated to assess repeatability. Two measures of individual variability in 
+response were used. First, the value of rotation was measured by the increased 
+proportion of patients reaching target blood pressure on their best drug versus 
+their first drug. Second, we assessed whether the responses to each drug were 
+correlated with each other.
+FINDINGS: Significant variability in response was found. 20 of the 41 patients 
+reaching target blood pressure (< or =140/90 mm Hg) failed to achieve this 
+target on their first drug. Rotation increased from 22/56 (39%) to 41/56 (73%) 
+the success of monotherapy (p=0.0001); in half the patients, blood-pressure on 
+the best treatment was 135/85 mm Hg or less. There were significant correlations 
+between the blood pressure responses to A and B (r=0.5, p<0.01), and C and D 
+(r=0.6, p<0.001), but not between the other four pairings of treatments. The 
+responses to the AB pair were, on average, at least 50% higher than those to the 
+CD pair; this difference was highly significant by multivariate 
+repeated-measures ANOVA.
+INTERPRETATION: There is a marked variability in hypertensive patients' response 
+to different antihypertensive drugs. The basis may be underlying variability in 
+types of essential hypertension. Optimisation of treatment requires systematic 
+rotation through several therapies; however, an "AB/CD" rule is proposed in 
+which one of each of the two pairs of treatments is initially selected to 
+abbreviate the rotation in routine practice.
+
+DOI: 10.1016/s0140-6736(98)07614-4
+PMID: 10376615 [Indexed for MEDLINE]
+=====
+3. N Engl J Med. 1993 Apr 1;328(13):914-21. doi: 10.1056/NEJM199304013281303.
+
+Single-drug therapy for hypertension in men. A comparison of six 
+antihypertensive agents with placebo. The Department of Veterans Affairs 
+Cooperative Study Group on Antihypertensive Agents.
+
+Erratum in
+    N Engl J Med. 1994 Jun 9;330(23):1689. doi: 10.1056/NEJM199406093302316.
+
+Comment in
+    N Engl J Med. 1993 Sep 30;329(14):1043-4; author reply 1045.
+    N Engl J Med. 1993 Sep 30;329(14):1044; author reply 1045.
+    N Engl J Med. 1993 Apr 1;328(13):959-61. doi: 10.1056/NEJM199304013281311.
+
+BACKGROUND: Characteristics such as age and race are often cited as determinants 
+of the response of blood pressure to specific antihypertensive agents, but this 
+clinically important issue has not been examined in sufficiently large trials, 
+involving all standard treatments, to determine the effect of such factors.
+METHODS: In a randomized, double-blind study at 15 clinics, we assigned 1292 men 
+with diastolic blood pressures of 95 to 109 mm Hg, after a placebo washout 
+period, to receive placebo or one of six drugs: hydrochlorothiazide (12.5 to 50 
+mg per day), atenolol (25 to 100 mg per day), captopril (25 to 100 mg per day), 
+clonidine (0.2 to 0.6 mg per day), a sustained-release preparation of diltiazem 
+(120 to 360 mg per day), or prazosin (4 to 20 mg per day). The drug doses were 
+titrated to a goal of less than 90 mm Hg for maximal diastolic pressure, and the 
+patients continued to receive therapy for at least one year.
+RESULTS: The mean (+/- SD) age of the randomized patients was 59 +/- 10 years, 
+and 48 percent were black. The average blood pressure at base line was 152 +/- 
+14/99 +/- 3 mm Hg. Diltiazem therapy had the highest rate of success: 59 percent 
+of the treated patients had reached the blood-pressure goal at the end of the 
+titration phase and had a diastolic blood pressure of less than 95 mm Hg at one 
+year. Atenolol was successful by this definition in 51 percent of the patients, 
+clonidine in 50 percent, hydrochlorothiazide in 46 percent, captopril in 42 
+percent, and prazosin in 42 percent; all these agents were superior to placebo 
+(success rate, 25 percent). Diltiazem ranked first for younger blacks (< 60 
+years) and older blacks (> or = 60 years), among whom the success rate was 64 
+percent, captopril for younger whites (success rate, 55 percent), and atenolol 
+for older whites (68 percent). Drug intolerance was more frequent with clonidine 
+(14 percent) and prazosin (12 percent) than with the other drugs.
+CONCLUSIONS: Among men, race and age have an important effect on the response to 
+single-drug therapy for hypertension. In addition to cost and quality of life, 
+these factors should be considered in the initial choice of a drug.
+
+DOI: 10.1056/NEJM199304013281303
+PMID: 8446138 [Indexed for MEDLINE]
+=====
+4. JAMA. 1998 Oct 7;280(13):1168-72. doi: 10.1001/jama.280.13.1168.
+
+Age-race subgroup compared with renin profile as predictors of blood pressure 
+response to antihypertensive therapy. Department of Veterans Affairs Cooperative 
+Study Group on Antihypertensive Agents.
+
+Comment in
+    JAMA. 1999 Mar 3;281(9):793-4. doi: 10.1001/jama.281.9.793.
+
+CONTEXT: Renin profiling and age-race subgroup may help select single-drug 
+therapy for stage 1 and stage 2 hypertension.
+OBJECTIVE: To compare the plasma renin profiling and age-race subgroup methods 
+as predictors of response to single-drug therapy in men with stage 1 and 2 
+hypertension as defined by the Joint National Committee on Prevention, 
+Detection, Evaluation and Treatment of High Blood Pressure.
+DESIGN: The Veterans Affairs Cooperative Study on Single-Drug Therapy of 
+Hypertension, a randomized controlled trial.
+SETTING: Fifteen Veterans Affairs hypertension centers.
+PATIENTS: A total of 1105 ambulatory men with entry diastolic blood pressure 
+(DBP) of 95 to 109 mm Hg, of whom 1031 had valid plasma and urine samples for 
+renin profiling.
+INTERVENTIONS: Randomization to 1 of 6 antihypertensive drugs: 
+hydrochlorothiazide, atenolol, captopril, clonidine, diltiazem (sustained 
+release), or prazosin.
+MAIN OUTCOME MEASURE: Treatment response as assessed by percentage achieving 
+goal DBP (<90 mm Hg) in response to a single drug that corresponded to patients' 
+renin profile vs a single drug that corresponded to patients' age-race subgroup.
+RESULTS: Clonidine and diltiazem had consistent response rates regardless of 
+renin profile (76%, 67%, and 80% for low, medium, and high renin, respectively, 
+for clonidine and 83%, 82%, and 83%, respectively, for diltiazem for patients 
+with baseline DBP of 95-99 mm Hg). Hydrochlorothiazide and prazosin were best in 
+low- and medium-renin profiles; captopril was best in medium- and high-renin 
+profiles (low-, medium-, and high-renin response rates were 82%, 78%, and 14%, 
+respectively, for hydrochlorothiazide; 88%, 67%, and 40%, respectively, for 
+prazosin; and 51%, 83%, and 100%, respectively, for captopril for patients with 
+baseline DBP of 95-99 mm Hg). Response rates for patients with baseline DBP of 
+95 to 99 mm Hg by age-race subgroup ranged from 70% for clonidine to 90% for 
+prazosin for younger black men, from 50% for captopril to 97% for diltiazem for 
+older black men, from 70% for hydrochlorothiazide to 92% for atenolol for 
+younger white men, and from 84% for hydrochlorothiazide to 95% for diltiazem for 
+older white men. Patients with a correct treatment for their renin profile but 
+incorrect for age-race subgroup had a response rate of 58.7%; patients with an 
+incorrect treatment for their renin profile but correct for age-race subgroup 
+had a response rate of 63.1% (P = .30). After controlling for DBP and 
+interactions with treatment group, age-race subgroup (P<.001) significantly 
+predicted response to single-drug therapy, whereas renin profile was of 
+borderline significance (P= .05).
+CONCLUSIONS: In these men with stage 1 and stage 2 hypertension, therapeutic 
+responses were consistent with baseline renin profile, but age-race subgroup was 
+a better predictor of response.
+
+DOI: 10.1001/jama.280.13.1168
+PMID: 9777817 [Indexed for MEDLINE]
+=====
+5. Am J Hypertens. 2010 Sep;23(9):1023-30. doi: 10.1038/ajh.2010.105. Epub 2010
+Aug  19.
+
+Ethnic differences in blood pressure response to first and second-line 
+antihypertensive therapies in patients randomized in the ASCOT Trial.
+
+Comment in
+    Am J Hypertens. 2010 Sep;23(9):926-8. doi: 10.1038/ajh.2010.139.
+    Am J Hypertens. 2010 Sep;23(9):929-30. doi: 10.1038/ajh.2010.135.
+    Curr Hypertens Rep. 2011 Feb;13(1):8-10. doi: 10.1007/s11906-010-0169-4.
+
+BACKGROUND: Some studies suggest that blood pressure (BP)-lowering effects of 
+commonly used antihypertensive drugs differ among ethnic groups. However, 
+differences in the response to second-line therapy have not been studied 
+extensively.
+METHODS: In the BP-lowering arm of the Anglo-Scandinavian Cardiac Outcomes Trial 
+(ASCOT-BPLA), BP levels of European (n = 4,368), African (203), and South-Asian- 
+(132) origin patients on unchanged monotherapy (atenolol or amlodipine) and/or 
+on second-line therapy (added thiazide or perindopril) were compared. 
+Interaction between ethnicity and BP responses (defined as end BP minus start of 
+therapy BP) to both first- and second-line therapies were assessed in regression 
+models after accounting for age, sex, and several other potential confounders.
+RESULTS: BP response to atenolol and amlodipine monotherapy differed among the 
+three ethnic groups (interaction test P = 0.05). Among those allocated atenolol 
+monotherapy, black patients were significantly less responsive (mean systolic BP 
+(SBP) difference +1.7 (95% confidence interval: -1.1 to 4.6) mm Hg) compared to 
+white patients (referent). In contrast, BP response to amlodipine monotherapy 
+did not differ significantly by ethnic group. BP responses to the addition of 
+second-line therapy also differed significantly by ethnic group (interaction 
+test P = 0.004). On adding a diuretic to atenolol, BP lowering was similar among 
+blacks and South-Asians as compared to whites (referent). However, on addition 
+of perindopril to amlodipine, BP responses differed significantly: compared to 
+whites (SBP difference -1.7 (-2.8 to -0.7) mm Hg), black patients had a lesser 
+response (SBP difference 0.8 (-2.5 to 4.2) mm Hg) and South-Asians had a greater 
+response (SBP difference -6.2 (-10.2 to -2.2) mm Hg).
+CONCLUSIONS: We found important differences in BP responses among ethnic groups 
+to both first- and second-line antihypertensive therapies.
+
+DOI: 10.1038/ajh.2010.105
+PMID: 20725056 [Indexed for MEDLINE]
+=====
+6. BMJ. 2003 Jun 28;326(7404):1427. doi: 10.1136/bmj.326.7404.1427.
+
+Value of low dose combination treatment with blood pressure lowering drugs: 
+analysis of 354 randomised trials.
+
+Comment in
+    BMJ. 2003 Jun 28;326(7404):1407-8. doi: 10.1136/bmj.326.7404.1407.
+    ACP J Club. 2004 Jan-Feb;140(1):4. doi: 10.7326/ACPJC-2004-140-1-004.
+
+OBJECTIVE: To determine the average reduction in blood pressure, prevalence of 
+adverse effects, and reduction in risk of stroke and ischaemic heart disease 
+events produced by the five main categories of blood pressure lowering drugs 
+according to dose, singly and in combination.
+DESIGN: Meta-analysis of 354 randomised double blind placebo controlled trials 
+of thiazides, beta blockers, angiotensin converting enzyme (ACE) inhibitors, 
+angiotensin II receptor antagonists, and calcium channel blockers in fixed dose.
+SUBJECTS: 40,000 treated patients and 16,000 patients given placebo.
+MAIN OUTCOME MEASURES: Placebo adjusted reductions in systolic and diastolic 
+blood pressure and prevalence of adverse effects, according to dose expressed as 
+a multiple of the standard (recommended) doses of the drugs.
+RESULTS: All five categories of drug produced similar reductions in blood 
+pressure. The average reduction was 9.1 mm Hg systolic and 5.5 mm Hg diastolic 
+at standard dose and 7.1 mm Hg systolic and 4.4 mm Hg diastolic (20% lower) at 
+half standard dose. The drugs reduced blood pressure from all pretreatment 
+levels, more so from higher levels; for a 10 mm Hg higher blood pressure the 
+reduction was 1.0 mm Hg systolic and 1.1 mm Hg diastolic greater. The blood 
+pressure lowering effects of different categories of drugs were additive. 
+Symptoms attributable to thiazides, beta blockers, and calcium channel blockers 
+were strongly dose related; symptoms caused by ACE inhibitors (mainly cough) 
+were not dose related. Angiotensin II receptor antagonists caused no excess of 
+symptoms. The prevalence of symptoms with two drugs in combination was less than 
+additive. Adverse metabolic effects (such as changes in cholesterol or 
+potassium) were negligible at half standard dose.
+CONCLUSIONS: Combination low dose drug treatment increases efficacy and reduces 
+adverse effects. From the average blood pressure in people who have strokes 
+(150/90 mm Hg) three drugs at half standard dose are estimated to lower blood 
+pressure by 20 mm Hg systolic and 11 mm Hg diastolic and thereby reduce the risk 
+of stroke by 63% and ischaemic heart disease events by 46% at age 60-69.
+
+DOI: 10.1136/bmj.326.7404.1427
+PMCID: PMC162261
+PMID: 12829555 [Indexed for MEDLINE]
+=====
+7. Am J Med. 2009 Mar;122(3):290-300. doi: 10.1016/j.amjmed.2008.09.038.
+
+Combination therapy versus monotherapy in reducing blood pressure: meta-analysis 
+on 11,000 participants from 42 trials.
+
+Comment in
+    Ann Intern Med. 2009 Aug 18;151(4):JC2-11. doi: 
+10.7326/0003-4819-151-4-200908180-02011.
+    Evid Based Med. 2009 Oct;14(5):142. doi: 10.1136/ebm.14.5.142.
+
+OBJECTIVE: To quantify the incremental effect of combining blood 
+pressure-lowering drugs from any 2 classes of thiazides, beta-blockers, 
+angiotensin-converting enzyme inhibitors, and calcium channel blockers over 1 
+drug alone and to compare the effects of combining drugs with doubling dose.
+METHODS: Meta-analysis of factorial trials in which participants were randomly 
+allocated to 1 drug alone, another drug alone, both drugs together, or a 
+placebo.
+RESULTS: We identified 42 trials (10,968 participants). With a thiazide used 
+alone, the mean placebo-subtracted reduction in systolic blood pressure was 7.3 
+mm Hg and 14.6 mm Hg combined with a drug from another class. The corresponding 
+reductions were 9.3 mm Hg and 18.9 mm Hg with a beta-blocker, 6.8 mm Hg and 13.9 
+mm Hg with an angiotensin-converting enzyme, and 8.4 mm Hg and 14.3 mm Hg with a 
+calcium channel blocker. The expected blood pressure reduction from 2 drugs 
+together, assuming an additive effect, closely predicted the observed blood 
+pressure reductions. The ratios of the observed to expected incremental blood 
+pressure reductions from combining each class of drug with any other over that 
+from 1 drug were, respectively, for thiazides, beta-blockers, 
+angiotensin-converting enzyme inhibitors, and calcium channel blockers: 1.04 
+(95% confidence interval [CI], 0.88-1.20), 1.00 (95% CI, 0.76-1.24), 1.16 (95% 
+CI, 0.93-1.39), and 0.89 (95% CI, 0.69-1.09); the overall average was 1.01 (95% 
+CI, 0.90-1.12). Comparison of our results with those of a published 
+meta-analysis of different doses of the same drug showed that doubling the dose 
+of 1 drug had approximately one fifth of the equivalent incremental effect (0.22 
+[95% CI, 0.19-0.25]).
+CONCLUSION: Blood pressure reduction from combining drugs from these 4 classes 
+can be predicted on the basis of additive effects. The extra blood pressure 
+reduction from combining drugs from 2 different classes is approximately 5 times 
+greater than doubling the dose of 1 drug.
+
+DOI: 10.1016/j.amjmed.2008.09.038
+PMID: 19272490 [Indexed for MEDLINE]
+=====
+8. Lancet. 2025 Aug 30;406(10506):915-925. doi: 10.1016/S0140-6736(25)00991-2.
+
+Blood pressure-lowering efficacy of antihypertensive drugs and their 
+combinations: a systematic review and meta-analysis of randomised, double-blind, 
+placebo-controlled trials.
+
+BACKGROUND: We aimed to quantify the blood pressure-lowering efficacy of 
+antihypertensive drugs and their combinations from the five major drug classes.
+METHODS: We conducted a systematic review and meta-analysis of randomised, 
+double-blind, placebo-controlled trials involving adult participants randomly 
+assigned to receive angiotensin-converting enzyme inhibitors, angiotensin II 
+receptor blockers, β blockers, calcium channel blockers, or diuretics. 
+Eligibility criteria included follow-up duration between 4 weeks and 26 weeks, 
+antihypertensive drug treatment fixed in all participants for at least 4 weeks 
+before follow-up blood pressure assessment; and availability of clinic blood 
+pressure for the calculation of mean difference in systolic blood pressure 
+between treatment groups. Crossover trials with less than 2 weeks' washout 
+between the crossover periods were excluded. Eligible studies published between 
+database inception and Dec 31, 2022 were identified from searches of the 
+Cochrane Central Register of Controlled Trials, MEDLINE, and Epistemonikos; 
+searches were updated to include studies published between Jan 1, 2023, and Feb 
+28, 2025. The primary outcome was placebo-corrected reduction in systolic blood 
+pressure. Blood pressure-lowering efficacy was estimated using fixed-effects 
+meta-analyses standardised to mean baseline blood pressure across included 
+trials. Drug regimens were categorised into low, moderate, and high intensity, 
+corresponding to systolic blood pressure-lowering efficacy of <10 mm Hg, 10-19 
+mm Hg, and ≥20 mm Hg, respectively, from a baseline of 154 mm Hg. A model was 
+developed to calculate efficacy for any combination of antihypertensives and 
+validated on external trials of dual and triple combination antihypertensives. 
+The study protocol was registered on the International Platform of Registered 
+Systematic Review and Meta-analysis Protocols (INPLASY202410036).
+FINDINGS: We analysed 484 trials including 104 176 participants (mean age 54 
+years [SD 8], 57 422 [55%] men, 46 754 [45%] women, and mean baseline systolic 
+blood pressure 154/100 mm Hg). Mean follow-up duration was 8·6 weeks (SD 5·2). 
+On average, monotherapy at standard dose reduced systolic blood pressure by 8·7 
+mm Hg (95% CI 8·2-9·2), and each doubling in dose conferred an additional 1·5 mm 
+Hg (1·2-1·7) reduction. Dual combinations at one standard dose conferred a 14·9 
+mm Hg (95% CI 13·1-16·8) reduction in systolic blood pressure, with each 
+doubling of doses of both drugs conferring an additional reduction of 2·5 mm Hg 
+(1·4-3·7). Each 10 mm Hg decrease in baseline systolic blood pressure reduced 
+pressure-lowering efficacy by 1·3 mm Hg (1·0-1·5) for monotherapies, although 
+differences between drug classes were observed. Among 57 monotherapies at 
+standard dose, 45 (79%) were classified as low intensity. Of 189 different 
+drug-dose dual combinations, 110 (58%) were classified as moderate intensity, 
+and 21 (11%) as high intensity. There were considerable differences in 
+dose-response and baseline blood pressure-response relationships between and 
+within drug classes. The efficacy model showed a high correlation between 
+predicted and observed systolic blood pressures when validated on external 
+trials (r=0·76, p<0·0001).
+INTERPRETATION: These analyses provide robust estimates of the expected blood 
+pressure-lowering effect for any combination of antihypertensive drugs, allowing 
+their efficacy to be classified into low, moderate, and high intensity.
+FUNDING: National Health and Medical Research Council, Australia.
+
+Copyright © 2025 Elsevier Ltd. All rights reserved, including those for text and 
+data mining, AI training, and similar technologies.
+
+DOI: 10.1016/
+=====
+9. N Engl J Med. 2019 Jun 20;380(25):2429-2439. doi: 10.1056/NEJMoa1901113. Epub 
+2019 Mar 18.
+
+Comparison of Dual Therapies for Lowering Blood Pressure in Black Africans.
+
+Collaborators: Shedul G, Eze H, Asuku R, Hanson G, Abubakar H, Baamlong N, Abu 
+J, Egenti N, Nwegbu M, Adikwu M, Anumah F, Sani MU, Kana SA, Suleiman AK, 
+Ibrahim K, Lawan I, Ogah O, Aje A, Adedapo A, Ogunbode AM, Ilori T, Obimakinde 
+AM, Akinjo RO, Barasa F, Kirui N, Ogola EN, Karari E, Dzudie A, Vanes EP, Ako A, 
+Abang S, Nzali-Feuzeu A, Mondo C, Ingabare PM, Jones E, Okpechi I, Rayner B, 
+Ogunbanju G, Damasceno A, Fabula A, Mntla P, Ogunbanjo G, Ojji D, Poulter N, 
+Mayosi BM, Francis V, Badri M, Dzudzie A, Sani M, Ogola E, Kramer N, Sliwa K.
+
+Comment in
+    Nat Rev Cardiol. 2019 Jun;16(6):323. doi: 10.1038/s41569-019-0193-2.
+    Ann Intern Med. 2019 Jul 16;171(2):JC5. doi: 10.7326/ACPJ201907160-005.
+    N Engl J Med. 2019 Oct 3;381(14):1389-1390. doi: 10.1056/NEJMc1909844.
+    N Engl J Med. 2019 Oct 3;381(14):1390. doi: 10.1056/NEJMc1909844.
+    N Engl J Med. 2019 Oct 3;381(14):1390-1391. doi: 10.1056/NEJMc1909844.
+    N Engl J Med. 2019 Oct 3;381(14):1391. doi: 10.1056/NEJMc1909844.
+
+BACKGROUND: The prevalence of hypertension among black African patients is high, 
+and these patients usually need two or more medications for blood-pressure 
+control. However, the most effective two-drug combination that is currently 
+available for blood-pressure control in these patients has not been established.
+METHODS: In this randomized, single-blind, three-group trial conducted in six 
+countries in sub-Saharan Africa, we randomly assigned 728 black patients with 
+uncontrolled hypertension (≥140/90 mm Hg while the patient was not being treated 
+or was taking only one antihypertensive drug) to receive a daily regimen of 5 mg 
+of amlodipine plus 12.5 mg of hydrochlorothiazide, 5 mg of amlodipine plus 4 mg 
+of perindopril, or 4 mg of perindopril plus 12.5 mg of hydrochlorothiazide for 2 
+months. Doses were then doubled (10 and 25 mg, 10 and 8 mg, and 8 and 25 mg, 
+respectively) for an additional 4 months. The primary end point was the change 
+in the 24-hour ambulatory systolic blood pressure between baseline and 6 months.
+RESULTS: The mean age of the patients was 51 years, and 63% were women. Among 
+the 621 patients who underwent 24-hour blood-pressure monitoring at baseline and 
+at 6 months, those receiving amlodipine plus hydrochlorothiazide and those 
+receiving amlodipine plus perindopril had a lower 24-hour ambulatory systolic 
+blood pressure than those receiving perindopril plus hydrochlorothiazide 
+(between-group difference in the change from baseline, -3.14 mm Hg; 95% 
+confidence interval [CI], -5.90 to -0.38; P = 0.03; and -3.00 mm Hg; 95% CI, 
+-5.8 to -0.20; P = 0.04, respectively). The difference between the group 
+receiving amlodipine plus hydrochlorothiazide and the group receiving amlodipine 
+plus perindopril was -0.14 mm Hg (95% CI, -2.90 to 2.61; P=0.92). Similar 
+differential effects on office and ambulatory diastolic blood pressures, along 
+with blood-pressure control and response rates, were apparent among the three 
+groups.
+CONCLUSIONS: These findings suggest that in black patients in sub-Saharan 
+Africa, amlodipine plus either hydrochlorothiazide or perindopril was more 
+effective than perindopril plus hydrochlorothiazide at lowering blood pressure 
+at 6 months. (Funded by GlaxoSmithKline Africa Noncommunicable Disease Open Lab; 
+CREOLE ClinicalTrials.gov number, NCT02742467.).
+
+Copyright © 2019 Massachusetts Medical Society.
+
+DOI: 10.1056/NEJMoa1901113
+PMID: 30883050 [Indexed for MEDLINE]
+=====
+10. Hypertension. 1998 May;31(5):1088-96. doi: 10.1161/01.hyp.31.5.1088.
+
+Influence of race and dietary salt on the antihypertensive efficacy of an 
+angiotensin-converting enzyme inhibitor or a calcium channel antagonist in 
+salt-sensitive hypertensives.
+
+Dietary salt restriction is a recommended adjunct with antihypertensive therapy. 
+There may be racial differences in blood pressure response to salt restriction 
+while on antihypertensive therapy. We performed a multicenter, randomized, 
+double-blind, placebo-controlled, parallel-group clinical trial (black, n=96; 
+Hispanic, n=63; white, n=232). Participants were initially preselected for stage 
+I to III hypertension and then further selected for salt sensitivity (> or = 5 
+mm Hg increase in diastolic blood pressure after 3 weeks of low salt [< or = 88 
+mmol/d Na+] and high salt [>190 mmol/d Na+] diet). We compared the 
+antihypertensive effect of an angiotensin-converting enzyme inhibitor (enalapril 
+5 or 20 mg BID) or a calcium channel antagonist (isradipine 5 or 10 mg BID) 
+during alternating periods of high and low salt intake. The main outcome measure 
+was blood pressure change and absolute blood pressure level achieved with 
+therapy. During the high salt diet (314.7+/-107.5 mmol/d urinary Na+) there was 
+greater downward change in blood pressure with both enalapril and isradipine 
+compared with the low salt diet (90.1+/-50.8 mmol/d Na+); however, the absolute 
+blood pressure achieved in all races was consistently lower on a low salt diet 
+for both agents. Black, white, and Hispanic isradipine-treated salt-sensitive 
+hypertensives demonstrated a smaller difference between high and low salt diets 
+(black, -3.6/-1.6 mmHg; white, -6.2/-3.9 mmHg; Hispanic, -8.1/-5.3 mm Hg) than 
+did enalapril-treated patients (black, -9.0/-5.3 mm Hg; white, -11.8/-7.0 mm Hg; 
+Hispanic, -11.1/-5.6 mm Hg). On the low salt diet, blacks, whites, and Hispanics 
+had similar blood pressure control with enalapril and isradipine. On the high 
+salt diet, blacks had better blood pressure control with isradipine than with 
+enalapril, whereas there was no difference in the blood pressure control in 
+whites and Hispanics treated with either drug. Dietary salt reduction helps 
+reduce blood pressure in salt-sensitive hypertensive blacks, whites, and 
+Hispanics treated with enalapril or isradipine. These data demonstrate that 
+controlling for salt sensitivity diminishes race-related differences in 
+antihypertensive activity.
+
+DOI: 10.1161/01.hyp.31.5.1088
+PMID: 9576119 [Indexed for MEDLINE]
+=====
+11. Am J Hypertens. 2010 Sep;23(9):1014-22. doi: 10.1038/ajh.2010.98. Epub 2010
+Aug  19.
+
+Plasma renin activity predicts blood pressure responses to beta-blocker and 
+thiazide diuretic as monotherapy and add-on therapy for hypertension.
+
+Comment in
+    Am J Hypertens. 2010 Sep;23(9):926-8. doi: 10.1038/ajh.2010.139.
+    Am J Hypertens. 2010 Sep;23(9):929-30. doi: 10.1038/ajh.2010.135.
+
+BACKGROUND: Age and race categories or renin profiling have been recommended to 
+predict blood pressure responses to monotherapy with a beta-blocker or thiazide 
+diuretic. Whether these or other characteristics predict blood pressure 
+responses when the drugs are administered as add-on therapy is uncertain.
+METHODS: We evaluated predictors of blood pressure response in 363 men and women 
+< or =65 years of age with primary hypertension (152 blacks, 211 whites), 86 of 
+whom (24%) were untreated and 277 of whom (76%) were withdrawn from previous 
+antihypertensive drugs before randomization to either atenolol followed by 
+addition of hydrochlorothiazide (N = 180) or hydrochlorothiazide followed by 
+addition of atenolol (N = 183). Responses were determined by home blood pressure 
+averages before and after each drug administration. Race, age, plasma renin 
+activity, and other characteristics including pretreatment blood pressure levels 
+were incorporated into linear regression models to quantify their contributions 
+to prediction of blood pressure responses.
+RESULTS: Plasma renin activity and pretreatment blood pressure level 
+consistently contributed to prediction of systolic and diastolic responses to 
+each drug administered as mono- and as add-on therapy. Higher plasma renin 
+activity was consistently associated with greater blood pressure responses to 
+atenolol and lesser responses to hydrochlorothiazide. The predictive effects of 
+plasma renin activity were statistically independent of race, age, and other 
+characteristics.
+CONCLUSIONS: Plasma renin activity and pretreatment blood pressure level predict 
+blood pressure responses to atenolol and hydrochlorothiazide administered as 
+mono- and as add-on therapy in men and women < or =65 years of age.
+
+DOI: 10.1038/ajh.2010.98
+PMCID: PMC2941699
+PMID: 20725057 [Indexed for MEDLINE]
+=====
+12. Cochrane Database Syst Rev. 2014 May 29;2014(5):CD003824. doi: 
+10.1002/14651858.CD003824.pub2.
+
+Blood pressure-lowering efficacy of monotherapy with thiazide diuretics for 
+primary hypertension.
+
+Update of
+    doi: 10.1002/14651858.CD003824.
+
+BACKGROUND: Hypertension is a modifiable cardiovascular risk factor. Although it 
+is established that low-dose thiazides reduce mortality as well as 
+cardiovascular morbidity, the dose-related effect of thiazides in decreasing 
+blood pressure has not been subject to a rigorous systematic review. It is not 
+known whether individual drugs within the thiazide diuretic class differ in 
+their blood pressure-lowering effects and adverse effects.
+OBJECTIVES: To determine the dose-related decrease in systolic and/or diastolic 
+blood pressure due to thiazide diuretics compared with placebo control in the 
+treatment of patients with primary hypertension. Secondary outcomes included the 
+dose-related adverse events leading to patient withdrawal and adverse 
+biochemical effects on serum potassium, uric acid, creatinine, glucose and 
+lipids.
+SEARCH METHODS: We searched the Cochrane Central Register of Controlled Trials 
+(CENTRAL 2014, Issue 1), Ovid MEDLINE (1946 to February 2014), Ovid EMBASE (1974 
+to February 2014) and ClinicalTrials.gov.
+SELECTION CRITERIA: We included double-blind, randomized controlled trials 
+(RCTs) comparing fixed-dose thiazide diuretic monotherapy with placebo for a 
+duration of 3 to 12 weeks in the treatment of adult patients with primary 
+hypertension.
+DATA COLLECTION AND ANALYSIS: Two authors independently screened articles, 
+assessed trial eligibility, extracted data and determined risk of bias. We 
+combined data for continuous variables using a mean difference (MD) and for 
+dichotomous outcomes we calculated the relative risk ratio (RR) with 95% 
+confidence interval (CI).
+MAIN RESULTS: We included 60 randomized, double-blind trials that evaluated the 
+dose-related trough blood pressure-lowering efficacy of six different thiazide 
+diuretics in 11,282 participants treated for a mean duration of eight weeks. The 
+mean age of the participants was 55 years and baseline blood pressure was 158/99 
+mmHg. Adequate blood pressure-lowering efficacy data were available for 
+hydrochlorothiazide, chlorthalidone and indapamide. We judged 54 (90%) included 
+trials to have unclear or high risk of bias, which impacted on our confidence in 
+the results for some of our outcomes.In 33 trials with a baseline blood pressure 
+of 155/100 mmHg, hydrochlorothiazide lowered blood pressure based on dose, with 
+doses of 6.25 mg, 12.5 mg, 25 mg and 50 mg/day lowering blood pressure compared 
+to placebo by 4 mmHg (95% CI 2 to 6, moderate-quality evidence)/2 mmHg (95% CI 1 
+to 4, moderate-quality evidence), 6 mmHg (95% CI 5 to 7, high-quality 
+evidence)/3 mmHg (95% CI 3 to 4, high-quality evidence), 8 mmHg (95% CI 7 to 9, 
+high-quality evidence)/3 mmHg (95% CI 3 to 4, high-quality evidence) and 11 mmHg 
+(95% CI 6 to 15, low-quality evidence)/5 mmHg (95% CI 3 to 7, low-quality 
+evidence), respectively.Direct comparison of doses did not show evidence of dose 
+dependence for blood pressure-lowering for any of the other thiazides for which 
+RCT data were available: bendrofluazide, chlorthalidone, cyclopenthiazide, 
+metolazone or indapamide.In seven trials with a baseline blood pressure of 
+163/88 mmHg, chlorthalidone at doses of 12.5 mg to 75 mg/day reduced average 
+blood pressure compared to placebo by 12.0 mmHg (95% CI 10 to 14, low-quality 
+evidence)/4 mmHg (95% CI 3 to 5, low-quality evidence).In 10 trials with a 
+baseline blood pressure of 161/98 mmHg, indapamide at doses of 1.0 mg to 5.0 
+mg/day reduced blood pressure compared to placebo by 9 mmHg (95% CI 7 to 10, 
+low-quality evidence)/4 (95% CI 3 to 5, low-quality evidence).We judged the 
+maximal blood pressure-lowering effect of the different thiazides to be similar. 
+Overall, thiazides reduced average blood pressure compared to placebo by 9 m
+=====
+13. Am J Hypertens. 2007 Mar;20(3):311-8. doi: 10.1016/j.amjhyper.2006.09.006.
+
+Predictors of antihypertensive drug responses: initial data from a 
+placebo-controlled, randomized, cross-over study with four antihypertensive 
+drugs (The GENRES Study).
+
+Erratum in
+    Am J Hypertens. 2018 Nov 13;31(12):1333. doi: 10.1093/ajh/hpy099.
+
+BACKGROUND: Only a minority of hypertensive individuals is adequately controlled 
+for their hypertension, partially because reliable predictors for efficient 
+antihypertensive drug therapy are lacking.
+METHODS: In a prospective, randomized, double-blind, cross-over, 
+placebo-controlled study (The GENRES Study), 208 moderately hypertensive Finnish 
+men (aged 35 to 60 years) were treated for 4 weeks with antihypertensive drugs 
+from four different classes: amlodipine (5 mg), bisoprolol (5 mg), 
+hydrochlorothiazide (25 mg), or losartan (50 mg) daily. Each individual received 
+each of the four monotherapies in a randomized order. Four-week placebo periods 
+were included before and between drug treatment periods. Antihypertensive 
+responses were assessed with 24-h ambulatory and office measurements and 
+analyzed according to age, body mass index, triceps skin fold thickness, 
+waist-to-hip ratio, duration of hypertension, number of previous 
+antihypertensive drugs, number of affected parents, and blood pressure (BP) 
+levels, and profiles during placebo periods.
+RESULTS: The median BP responses in 24-h ambulatory recordings 
+(systolic/diastolic) were 11/8 mm Hg for bisoprolol, 9/6 mm Hg for losartan, 7/5 
+mm Hg for amlodipine, and 5/2 mm Hg for hydrochlorothiazide. The highest 
+pairwise within-subject correlations in BP responses were seen for the 
+combinations of bisoprolol-losartan and amlodipine-hydrochlorothiazide. The BP 
+responses to bisoprolol and losartan did not vary according to the variables. 
+Amlodipine and hydrochlorothiazide responses were positively correlated with 
+age, placebo BP level, and lower night-time dipping on placebo.
+CONCLUSIONS: Baseline clinical and BP parameters may be used to predict the 
+efficacy of antihypertensive therapies. The GENRES Study material should provide 
+an excellent platform for future pharmacogenetic analyses of antihypertensive 
+drug responsiveness.
+
+DOI: 10.1016/j.amjhyper.2006.09.006
+PMID: 17324745 [Indexed for MEDLINE]
+=====
+14. Hypertension. 2023 Nov;80(11):2293-2302. doi:
+10.1161/HYPERTENSIONAHA.123.21496.  Epub 2023 Jul 24.
+
+Sex-Specific Effects of Blood Pressure Lowering Pharmacotherapy for the 
+Prevention of Cardiovascular Disease: An Individual Participant-Level Data 
+Meta-Analysis.
+
+Comment in
+    Hypertension. 2023 Nov;80(11):2303-2305. doi: 
+10.1161/HYPERTENSIONAHA.123.21774.
+
+BACKGROUND: Whether the relative effects of blood pressure (BP)-lowering 
+treatment on cardiovascular outcomes differ by sex, particularly when BP is not 
+substantially elevated, has been uncertain.
+METHODS: We conducted an individual participant-level data meta-analysis of 
+randomized controlled trials of pharmacological BP lowering. We pooled the data 
+and categorized participants by sex, systolic BP categories in 10-mm Hg 
+increments from <120 to ≥170 mm Hg, and age categories spanning from <55 to ≥85 
+years. We used fixed-effect one-stage individual participant-level data 
+meta-analyses and applied Cox proportional hazard models, stratified by trial, 
+to analyze the data.
+RESULTS: We included data from 51 randomized controlled trials involving 358 636 
+(42% women) participants. Over 4.2 years of median follow-up, a 5-mm Hg 
+reduction in systolic BP decreased the risk of major cardiovascular events both 
+in women and men (hazard ratio [95% CI], 0.92 [0.89-0.95] for women and 0.90 
+[0.88-0.93] for men; P for interaction, 1). There was no evidence for 
+heterogeneity of relative treatment effects by sex for the major cardiovascular 
+disease, its components, or across the different baseline BP categories (all P 
+for interaction, ≥0.57). The effects in women and men were consistent across age 
+categories and the types of antihypertensive medications (all P for interaction, 
+≥0.14).
+CONCLUSIONS: The effects of BP reduction were similar in women and men across 
+all BP and age categories at randomization and with no evidence to suggest that 
+drug classes had differing effects by sex. This study does not substantiate 
+sex-based differences in BP-lowering treatment.
+
+DOI: 10.1161/HYPERTENSIONAHA.123.21496
+PMID: 37485657 [Indexed for MEDLINE]
+=====
+15. Am J Cardiol. 1996 Apr 1;77(9):713-22. doi: 10.1016/s0002-9149(97)89205-3.
+
+Sex- and age-related antihypertensive effects of amlodipine. The Amlodipine 
+Cardiovascular Community Trial Study Group.
+
+Comment in
+    Am J Cardiol. 1997 Mar 15;79(6):843-4. doi: 10.1016/s0002-9149(97)90001-1.
+
+This community-based study assessed whether there were age, sex, or racial 
+differences in response to amlodipine 5 to 10 mg once daily in patients with 
+mild to moderate essential hypertension. This prospective, open-label trial had 
+a 2-week placebo period, a 4-week upward drug titration/efficacy period, and a 
+12-week drug maintenance period. There were 1,084 evaluable patients (mean age 
+55.5 years; 65% men and 35% women; 79% white and 21% black; 75% <65 and 25% > or 
+= 65 years old). At the end of the titration/efficacy phase, the mean +/- SD 
+blood pressure (BP) decreased by -16.3 +/- 12.3/-12.5 +/- 5.9 mm Hg, (p < or = 
+0.0001). Amlodipine produced a goal BP response (sitting diastolic BP < or = 90 
+mm Hg, or a 10 mm Hg decrease) in 86.0% of patients overall. The BP response was 
+greater in women (91.4%) than in men (83.0%, p < or = 0.001), and greater in 
+those > or = 65 years old (91.5%) than in those < 65 years old (84.1%, p < or = 
+0.01); however, it was similar between whites and blacks (86.0% vs 85.9%, 
+respectively, p = NS). The sex difference in BP response could not be fully 
+explained by differences in age, weight, dose (mg/kg), race, baseline BP, or 
+compliance, and there were no differences among women based on use of hormone 
+replacement therapy. Amlodipine was well tolerated; mild to moderate edema was 
+the most common adverse effect. Thus, amlodipine was effective and safe as 
+once-a-day monotherapy in the treatment of mild to moderate hypertension in a 
+community-based population. Women had a greater BP response to amlodipine.
+
+DOI: 10.1016/s0002-9149(97)89205-3
+PMID: 8651122 [Indexed for MEDLINE]
+=====
+16. Natl Med J India. 2018 May-Jun;31(3):140-145. doi: 10.4103/0970-258X.255754.
+
+Salt-sensitive phenotypes: A community-based exploratory study from northeastern 
+India.
+
+BACKGROUND: Salt sensitivity is known to increase the risk of cardiovascular 
+diseases in both normotensive and hypertensive subjects. The population in the 
+northeastern region of India consumes excess dietary salt but their 
+saltsensitive phenotype is not known.
+METHODS: We did a community-based exploratory study using volunteers in the 
+northeastern region of India to determine salt-sensitive (SS) and salt-resistant 
+(SR) phenotypes. A total of 374 (206 normotensive and 168 hypertensive) subjects 
+who gave informed consent were stabilized for salt with 7 days of a low-salt 
+(2.9 g/day) diet followed by 7 days of a high-salt (15.2 g/day) diet. SS was 
+defined as an increase of mean arterial blood pressure ≥9 mmHg after a high-salt 
+diet.
+RESULTS: We noted an increase in systolic blood pressure of 9.3 mmHg in 
+normotensive subjects and 10.7 mmHg in hypertensive subjects, with a modest 
+effect on diastolic blood pressure (6.9 mmHg in normotensive and 8.2 mmHg in 
+hypertensive subjects) after a high-salt diet. Salt-sensitive phenotype was 
+present in 40.8% of normotensive and 47.6% of hypertensive subjects. Resistance 
+to introduction of high salt was observed in 43.7% of normotensive and 33.9% of 
+hypertensive subjects. Consumption of extra salt (adjusted OR 1.99, 95% CI 
+1.25-3.18) was independently associated with salt sensitivity.
+CONCLUSION: Salt sensitivity was found in a large proportion of normotensive and 
+hypertensive subjects. Restriction of salt intake could be an effective 
+intervention to control hypertension among salt-sensitive subjects.
+
+DOI: 10.4103/0970-258X.255754
+PMID: 31044759 [Indexed for MEDLINE]
+=====

@@ -1,0 +1,101 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="shot" content="1300x615@2">
+<title>Reading quality clip</title>
+<link rel="stylesheet" href="kit.css">
+<style>
+  .sheet { gap: 18px; }
+  .main { display: grid; grid-template-columns: 560px 1fr; gap: 34px; align-items: stretch; }
+  .draw { background: #f8fafc; border: 1px solid var(--line); border-radius: 16px; padding: 10px; display: flex; align-items: center; justify-content: center; }
+  .checks { display: flex; flex-direction: column; gap: 12px; }
+  .chk { display: grid; grid-template-columns: 40px 1fr 92px; gap: 14px; align-items: center; border: 2px solid var(--line); border-radius: 14px; padding: 12px 16px; }
+  .chk .n { width: 36px; height: 36px; border-radius: 50%; background: var(--accent); color: #fff; font-weight: 700; display: grid; place-items: center; font-size: 17px; }
+  .chk .v { font-size: 18px; font-weight: 700; }
+  .chk .d { font-size: 14px; color: var(--ink-2); line-height: 1.4; margin-top: 2px; }
+  .chk .m { font-size: 12px; font-weight: 700; color: var(--accent-2); text-align: center; background: var(--accent-soft); border-radius: 10px; padding: 6px 4px; line-height: 1.25; }
+  .out { display: grid; grid-template-columns: 1fr 1fr; gap: 12px; margin-top: 2px; }
+  .res { border-radius: 14px; padding: 12px 16px; }
+  .res .v { font-size: 19px; font-weight: 700; }
+  .res .d { font-size: 14px; line-height: 1.35; margin-top: 2px; }
+  .res.ok { background: var(--ok-soft); color: #14532d; border: 2px solid #86efac; }
+  .res.no { background: var(--warn-soft); color: #78350f; border: 2px solid #fcd34d; }
+  .rule { font-size: 13px; font-weight: 700; letter-spacing: .06em; text-transform: uppercase; color: var(--muted); }
+</style>
+</head>
+<body>
+<div class="sheet">
+  <div>
+    <div class="title">A bad reading must never change a dose</div>
+    <div class="sub">A small clip on the cuff checks how the reading was taken. The clip is an ESP32 board with a motion sensor, built from the maker kit.</div>
+  </div>
+
+  <div class="main">
+    <div class="draw">
+      <svg viewBox="0 0 560 440" width="540" height="424" font-family="Segoe UI, sans-serif">
+        <!-- person, plain shapes -->
+        <circle cx="130" cy="62" r="40" fill="#e2e8f0"/>
+        <rect x="60" y="112" width="150" height="300" rx="56" fill="#e2e8f0"/>
+        <!-- heart level line -->
+        <line x1="40" y1="210" x2="545" y2="210" stroke="#b91c1c" stroke-width="1.6" stroke-dasharray="7 5"/>
+        <text x="545" y="202" font-size="13" fill="#b91c1c" text-anchor="end" font-weight="600">Heart level</text>
+        <circle cx="160" cy="210" r="9" fill="#ef4444"/>
+        <text x="148" y="240" font-size="12.5" fill="#64748b" text-anchor="middle">Heart</text>
+        <!-- table -->
+        <rect x="250" y="292" width="300" height="14" rx="3" fill="#94a3b8"/>
+        <rect x="270" y="306" width="10" height="110" fill="#cbd5e1"/>
+        <rect x="520" y="306" width="10" height="110" fill="#cbd5e1"/>
+        <!-- arm -->
+        <line x1="195" y1="150" x2="305" y2="265" stroke="#cbd5e1" stroke-width="44" stroke-linecap="round"/>
+        <line x1="305" y1="265" x2="430" y2="268" stroke="#cbd5e1" stroke-width="38" stroke-linecap="round"/>
+        <!-- cuff on upper arm, centred on heart level -->
+        <g transform="rotate(46 252 210)">
+          <rect x="222" y="178" width="60" height="64" rx="8" fill="#0f766e"/>
+          <rect x="222" y="178" width="60" height="64" rx="8" fill="none" stroke="#115e59" stroke-width="2"/>
+          <!-- clip -->
+          <rect x="238" y="160" width="28" height="20" rx="4" fill="#1d4ed8"/>
+          <circle cx="245" cy="170" r="2.6" fill="#bfdbfe"/>
+        </g>
+        <!-- tube to cuff unit -->
+        <path d="M 278 236 C 330 250, 380 240, 452 268" fill="none" stroke="#475569" stroke-width="3"/>
+        <rect x="452" y="252" width="80" height="40" rx="8" fill="#1f2933"/>
+        <rect x="460" y="259" width="64" height="20" rx="3" fill="#b9c8a8"/>
+        <text x="492" y="274" font-size="13" text-anchor="middle" font-weight="700" fill="#1b2516">156/98</text>
+        <!-- callouts -->
+        <line x1="268" y1="168" x2="330" y2="104" stroke="#1d4ed8" stroke-width="1.5"/>
+        <text x="334" y="92" font-size="14" fill="#1d4ed8" font-weight="700">Clip on the cuff</text>
+        <text x="334" y="110" font-size="12.5" fill="#334155">ESP32 board + motion sensor</text>
+        <text x="334" y="126" font-size="12.5" fill="#334155">reads angle and movement</text>
+        <text x="300" y="360" font-size="13" fill="#334155">Arm rests on the table,</text>
+        <text x="300" y="377" font-size="13" fill="#334155">cuff at the height of the heart</text>
+        <text x="452" y="246" font-size="12" fill="#64748b">Any cuff</text>
+      </svg>
+    </div>
+
+    <div class="checks">
+      <div class="rule">Three checks on every reading</div>
+      <div class="chk">
+        <div class="n">1</div>
+        <div><div class="v">Arm at heart level</div><div class="d">The clip reads the angle of the upper arm. The arm must rest on a table, not hang or float.</div></div>
+        <div class="m">Angle within range</div>
+      </div>
+      <div class="chk">
+        <div class="n">2</div>
+        <div><div class="v">Still for 5 minutes before the reading</div><div class="d">A rest timer runs before the cuff inflates. Movement starts the timer again.</div></div>
+        <div class="m">Rest timer 5:00</div>
+      </div>
+      <div class="chk">
+        <div class="n">3</div>
+        <div><div class="v">No movement or talking during inflation</div><div class="d">Movement while the cuff inflates marks the reading. The phone asks the patient to sit quietly.</div></div>
+        <div class="m">Motion stays low</div>
+      </div>
+      <div class="out">
+        <div class="res ok"><div class="v">Reading counts</div><div class="d">All three checks pass. The reading goes to the engine.</div></div>
+        <div class="res no"><div class="v">Repeat the reading</div><div class="d">Any check fails. The reading is kept but never moves a dose.</div></div>
+      </div>
+    </div>
+  </div>
+</div>
+</body>
+</html>

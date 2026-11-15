@@ -1,0 +1,53 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="shot" content="1300x595@2">
+<title>Share controlled</title>
+<link rel="stylesheet" href="kit.css">
+<style>
+  .chart { display: flex; flex-direction: column; gap: 22px; }
+  .g { display: flex; flex-direction: column; gap: 6px; }
+  .gh { font-size: 17px; font-weight: 650; color: var(--ink); }
+  .note { font-size: 13.5px; color: var(--muted); margin-top: 2px; }
+  .r { display: grid; grid-template-columns: 170px 1fr; align-items: center; column-gap: 16px; height: 30px; }
+  .lab { font-size: 15px; color: var(--ink-2); text-align: right; }
+  .lab.on { color: var(--accent-2); font-weight: 650; }
+  .trk { display: flex; align-items: center; }
+  .bar { height: 24px; background: #cbd5e1; border-radius: 0 4px 4px 0; flex: none; }
+  .bar.on { background: var(--accent); }
+  .val { margin-left: 10px; font-size: 17px; font-weight: 700; color: var(--ink); }
+</style>
+</head>
+<body>
+<div class="sheet">
+  <div>
+    <div class="title">Where someone is allowed to step the dose, many more patients reach control</div>
+    <div class="sub">Share of patients with blood pressure under control, per cent.</div>
+  </div>
+
+  <!-- scale: 100 per cent = 900px -->
+  <div class="chart">
+    <div class="g">
+      <div class="gh">United States: pharmacists adjust from home readings (HyperLink)</div>
+      <div class="r"><div class="lab">Usual care</div><div class="trk"><div class="bar" style="width:270px"></div><span class="val">30.0</span></div></div>
+      <div class="r"><div class="lab on">Programme</div><div class="trk"><div class="bar on" style="width:515px"></div><span class="val">57.2</span></div></div>
+    </div>
+    <div class="g">
+      <div class="gh">Rural China: village health workers step doses by protocol (target under 130/80, 18 months)</div>
+      <div class="r"><div class="lab">Usual care</div><div class="trk"><div class="bar" style="width:179px"></div><span class="val">19.9</span></div></div>
+      <div class="r"><div class="lab on">Programme</div><div class="trk"><div class="bar on" style="width:513px"></div><span class="val">57.0</span></div></div>
+      <div class="note">The programme also gave free or cheaper medicines and paid for results.</div>
+    </div>
+    <div class="g">
+      <div class="gh">India: government programme, patients who came back</div>
+      <div class="r"><div class="lab">At registration</div><div class="trk"><div class="bar" style="width:237px"></div><span class="val">26.3</span></div></div>
+      <div class="r"><div class="lab on">At follow-up</div><div class="trk"><div class="bar on" style="width:538px"></div><span class="val">59.8</span></div></div>
+      <div class="note">Before and after, and only the 51% who returned.</div>
+    </div>
+  </div>
+
+  <div class="foot">Sources: D1-01-F04, D1-01-F09, D1-03-F10.</div>
+</div>
+</body>
+</html>

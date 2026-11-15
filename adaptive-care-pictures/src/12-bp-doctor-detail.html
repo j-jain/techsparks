@@ -1,0 +1,122 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="shot" content="393x852@3">
+<title>Proposal detail</title>
+<link rel="stylesheet" href="kit.css">
+<style>
+  .appbar .back { font-size: 22px; line-height: 1; }
+  .example { position: static; }
+  .screen { background: var(--bg); padding: 8px 12px; gap: 6px; }
+  .card { padding: 8px 12px; border-radius: 12px; }
+  .card h3 { font-size: 11px; text-transform: uppercase; letter-spacing: .06em; margin-bottom: 4px; }
+  .pt { font-size: 16px; font-weight: 700; }
+  .pt span { font-weight: 400; color: var(--muted); font-size: 14px; }
+  .prop { margin-top: 6px; background: var(--blue-soft); color: #1e3a8a; border-radius: 8px; padding: 6px 9px; font-size: 13.5px; font-weight: 650; }
+  .lg { display: flex; gap: 12px; font-size: 10.5px; color: var(--muted); margin-top: 2px; }
+  .lg i { display: inline-block; width: 9px; height: 9px; border-radius: 2px; margin-right: 4px; vertical-align: -1px; }
+  .stats { display: grid; grid-template-columns: 1fr 1fr; gap: 8px; }
+  .stat { background: #fff; border: 1px solid var(--line); border-radius: 12px; padding: 8px 11px; }
+  .stat .k { font-size: 11px; color: var(--muted); font-weight: 600; }
+  .stat .v { font-size: 19px; font-weight: 700; }
+  .stat .v small { font-size: 12px; font-weight: 500; color: var(--muted); }
+  .stat .n { font-size: 11px; color: var(--warn); }
+  .stat .n.ok { color: var(--ok); }
+  .steps { display: flex; flex-direction: column; }
+  .st { display: grid; grid-template-columns: 20px 1fr; gap: 9px; position: relative; padding-bottom: 3px; font-size: 12.5px; line-height: 1.3; }
+  .st::before { content: ""; position: absolute; left: 9px; top: 18px; bottom: -1px; width: 2px; background: var(--line); }
+  .st:last-child::before { display: none; }
+  .dot { width: 20px; height: 20px; border-radius: 50%; border: 2px solid #cbd5e1; background: #fff; display: grid; place-items: center; font-size: 10px; font-weight: 700; color: var(--muted); }
+  .st.done .dot { background: var(--accent); border-color: var(--accent); color: #fff; }
+  .st.done::before { background: var(--accent); }
+  .st.next .dot { background: var(--blue); border-color: var(--blue); color: #fff; }
+  .st.next .tx { background: var(--blue-soft); border-radius: 6px; padding: 1px 7px; margin-left: -5px; color: #1e3a8a; font-weight: 650; }
+  .st.grey .tx { color: #94a3b8; }
+  .tx b { font-weight: 650; }
+  .why { background: #f0fdfa; border: 1px solid #99f6e4; }
+  .why ol { padding-left: 17px; font-size: 12.5px; line-height: 1.38; color: var(--ink-2); }
+  .safe { font-size: 12px; color: var(--ok); background: var(--ok-soft); border-radius: 10px; padding: 6px 10px; font-weight: 600; }
+  .actions { display: grid; grid-template-columns: 1.3fr 1fr 1fr; gap: 8px; padding: 9px 12px 12px; background: #fff; border-top: 1px solid var(--line); }
+  .actions .btn { font-size: 14px; padding: 10px 4px; }
+</style>
+</head>
+<body>
+<div class="phone">
+  <div class="statusbar"><span>10:07</span><span>4G &#9646;&#9646;&#9646;</span></div>
+  <div class="appbar">
+    <span class="back">&#8249;</span>
+    <div><div class="t1">Proposal 2 of 6</div><div class="t2">Hypertension protocol, state sheet</div></div>
+  </div>
+  <div class="screen">
+    <div class="card">
+      <div class="row"><div class="pt">S. D. <span>54 F</span></div><span class="example">Example data</span></div>
+      <div class="small muted">On Step 1, Amlodipine 5 mg, for 30 days</div>
+      <div class="prop">Proposed: Step 2, Amlodipine 10 mg once a day</div>
+    </div>
+
+    <div class="card">
+      <div class="row"><h3>Home readings, last 7 days (systolic)</h3><span class="small muted">avg 154/96</span></div>
+      <svg viewBox="0 10 345 108" width="100%" style="display:block">
+        <line x1="22" y1="70" x2="343" y2="70" stroke="#b91c1c" stroke-dasharray="4 3" stroke-width="1"/>
+        <text x="0" y="73" font-size="9" fill="#b91c1c">135</text>
+        <line x1="22" y1="100" x2="343" y2="100" stroke="#cbd5e1" stroke-width="1"/>
+        <g fill="#0f766e">
+          <rect x="29" y="43" width="8" height="57" rx="2"/><rect x="43" y="52" width="8" height="48" rx="2" fill="#5eead4"/>
+          <rect x="74" y="55" width="8" height="45" rx="2"/>
+          <rect x="119" y="46" width="8" height="54" rx="2"/><rect x="133" y="49" width="8" height="51" rx="2" fill="#5eead4"/>
+          <rect x="164" y="53.5" width="8" height="46.5" rx="2"/><rect x="178" y="44.5" width="8" height="55.5" rx="2" fill="#5eead4"/>
+          <rect x="223" y="50.5" width="8" height="49.5" rx="2" fill="#5eead4"/>
+          <rect x="254" y="47.5" width="8" height="52.5" rx="2"/><rect x="268" y="55" width="8" height="45" rx="2" fill="#5eead4"/>
+          <rect x="299" y="46" width="8" height="54" rx="2"/><rect x="313" y="49" width="8" height="51" rx="2" fill="#5eead4"/>
+        </g>
+        <g fill="none" stroke="#94a3b8" stroke-dasharray="2 2" stroke-width="1.2">
+          <rect x="88" y="22" width="8" height="78" rx="2"/>
+          <rect x="209" y="28" width="8" height="72" rx="2"/>
+        </g>
+        <g font-size="10" fill="#94a3b8" font-weight="700" text-anchor="middle">
+          <text x="92" y="17">&#215;</text><text x="213" y="23">&#215;</text>
+        </g>
+        <g font-size="9.5" fill="#64748b" text-anchor="middle">
+          <text x="40" y="113">Mon</text><text x="85" y="113">Tue</text><text x="130" y="113">Wed</text><text x="175" y="113">Thu</text><text x="220" y="113">Fri</text><text x="265" y="113">Sat</text><text x="310" y="113">Sun</text>
+        </g>
+      </svg>
+      <div class="lg"><span><i style="background:#0f766e"></i>Morning</span><span><i style="background:#5eead4"></i>Evening</span><span><i style="border:1px dashed #94a3b8"></i>Rejected: arm not supported</span></div>
+    </div>
+
+    <div class="stats">
+      <div class="stat"><div class="k">Valid readings</div><div class="v">12 <small>of 14</small></div><div class="n">2 rejected: arm not supported</div></div>
+      <div class="stat"><div class="k">Medicine taken</div><div class="v">7 <small>of 7 days</small></div><div class="n ok">Patient confirmed in chat</div></div>
+    </div>
+
+    <div class="card">
+      <h3>Protocol path</h3>
+      <div class="steps">
+        <div class="st done"><div class="dot">&#10003;</div><div class="tx"><b>Step 1</b> Amlodipine 5 mg</div></div>
+        <div class="st next"><div class="dot">2</div><div class="tx">Step 2 Amlodipine 10 mg (proposed)</div></div>
+        <div class="st grey"><div class="dot">3</div><div class="tx">Step 3 Add Telmisartan 40 mg</div></div>
+        <div class="st grey"><div class="dot">4</div><div class="tx">Step 4 Telmisartan 80 mg (blood tests first)</div></div>
+        <div class="st grey"><div class="dot">5</div><div class="tx">Step 5 Add Chlorthalidone 12.5 mg</div></div>
+        <div class="st grey"><div class="dot">&#8594;</div><div class="tx">Check medicines are taken, refer to specialist</div></div>
+      </div>
+    </div>
+
+    <div class="card why">
+      <h3 style="color:var(--accent-2)">Why this step</h3>
+      <ol>
+        <li>Average 154/96 over 7 days is above the home line of 135/85.</li>
+        <li>30 days on the current dose.</li>
+        <li>Medicine taken daily.</li>
+      </ol>
+    </div>
+
+    <div class="safe">Safety: not pregnant. No reading at or above 180/110.</div>
+  </div>
+  <div class="actions">
+    <div class="btn">Approve</div>
+    <div class="btn ghost">Change</div>
+    <div class="btn ghost">Call patient</div>
+  </div>
+</div>
+</body>
+</html>

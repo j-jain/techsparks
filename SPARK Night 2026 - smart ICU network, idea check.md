@@ -123,7 +123,7 @@ This section shows the layers of the combined product and who already covers eac
 | Layer | Cloudphysician | 10BedICU and state hubs | Cadence | This idea (OUR DESIGN) |
 |---|---|---|---|---|
 | Fitted in while the block is built | Fitted later | Equipment donated to existing hospitals | Not applicable | A tele-ready spec written into the build: network points, camera mounts, a local server, backup power |
-| Remote specialist | Yes | Yes, from medical colleges | Not in hospital | Yes, but only for exceptions and approvals |
+| Remote specialist | Yes | Yes, from medical colleges | Not in hospital | Yes, but only for exceptions: hard stops and requests to leave the protocol |
 | Treatment steps from written protocols, approved by a clinician | None published | None found | Yes, at home, for chronic disease ([D3-06-F31](https://www.cadence.care/post/cadences-hypertensionos-software-selected-for-fdas-tempo-to-advance-hypertension-care)) | Yes, for acute ICU protocols |
 | Reads any monitor by camera | Not stated | Monitor integration at Nagaland spokes ([D6-02-F08](https://ipr.nagaland.gov.in/node/10455)) | Not applicable | Yes, so mixed-brand government monitors need no paid integration |
 | Ward early warning before the ICU | No | No | No | Yes: the shared vitals station from the earlier idea check |
@@ -148,6 +148,7 @@ Six parts, all OUR DESIGN.
    - The D2-01 engine is a pure decision function. It only picks steps written in a YAML protocol file, quotes the source line for every step, refuses to run any rule left blank, and needs a clinician's approval before anything reaches the patient.
    - The ICU packs are new files on the same engine (section 5).
 4. **The 90-second specialist card.**
+   - It is only for exceptions: a hard stop named in the protocol file, targets still missed after the steps the file allows, or the duty doctor asking to leave the protocol. Routine steps are the on-site duty doctor's one tap on the bed tablet, so most steps never reach a specialist (section 7).
    - It shows the trend since admission, the frames that support the proposal, the proposed step with its protocol line, and the reason. Approve, change or call, in one tap.
    - The service is measured on specialist minutes per decision and patients per specialist, against Cloudphysician's 60-80 ([D6-02-F04](https://yourstory.com/socialstory/2020/08/tele-icu-monitoring-services-shortage-solution)).
 5. **Escalation and transfer.**
@@ -162,17 +163,17 @@ Six parts, all OUR DESIGN.
 
 1. 02:10. A 34-year-old farmer arrives after drinking pesticide. The duty doctor (a GDMO, not an intensivist) opens the organophosphate pack on the tablet.
 2. The bed camera reads the monitor. The nurse taps in pupils and chest sounds from a checklist.
-3. The engine proposes the first atropine step from the protocol file. It sets the check time and the targets the file names.
-4. The remote specialist's phone shows the card: heart rate trend, two monitor frames and the proposed step with its source line. Approved at 02:14; the log records 4 minutes from proposal to approval.
-5. The nurse gives the dose. The countdown runs. At the check, targets are not met, so the engine proposes the next step. Approved, given, and targets met. The engine proposes the infusion from the file.
-6. 03:40. Breathing slows: a hard stop. The specialist joins by video. The system lists the nearest hospital with a free ventilator and warns it.
-7. Morning. The case summary and the PMJAY claim papers are already written from the log.
+3. The engine proposes the first atropine step from the protocol file, with the check time and the targets the file names. This is a routine step, so it goes to the duty doctor, not the specialist. The duty doctor approves it on the tablet at 02:12; the log records 2 minutes from proposal to approval.
+4. The nurse gives the dose and the countdown runs. At 02:17 the check finds the targets not met, so the engine proposes the next (doubled) step. The duty doctor approves, the nurse gives it, and the loop repeats until the targets are met. The engine then proposes the infusion from the file, and the duty doctor approves that too. No specialist has been called.
+5. 03:40. Breathing slows: a hard stop written into the pack, so this is an exception. The remote specialist's phone shows the card: heart-rate and breathing trend, two monitor frames, the steps given so far, and the hard stop with its source line. The specialist joins by video and decides to transfer; the duty doctor confirms the order. The system lists the nearest hospital with a free ventilator and warns it.
+6. 08:00. The case summary and the PMJAY claim papers are already written from the log; the duty doctor reviews and signs them.
+7. Specialist time for the whole night: one call. This is what lets one specialist cover many beds (target above 80, section 9).
 
 ## 5. Protocol packs
 
 This section shows the first packs and where each rule comes from. Each pack is a YAML file. Every number carries its source text; a blank rule stops the engine until the clinical lead fills it in, as in D2-01.
 
-| Pack | Written source | Timed checks the engine runs | What it proposes (clinician approves) | Hard stops to the specialist |
+| Pack | Written source | Timed checks the engine runs | What it proposes (on-site doctor approves) | Hard stops to the specialist |
 |---|---|---|---|---|
 | Snakebite | MoHFW Standard Treatment Guidelines, 2016 ([D6-03-F01](https://clinicalestablishments.mohfw.gov.in/sites/default/files/standard-treatment-guidelines/3941.pdf)) | 20-minute clotting test "every 1 h from admission for three hours and then 6 hourly for 24 hours"; recheck 6 hours after the loading dose; bleeding check 1 hour after the first 10 vials | Repeat antivenom on the guideline's criteria; neostigmine trial steps with the stop rules "after 3 doses" | Paralysis needing a ventilator; 30 vials given ("reconsider"); no ventilator or dialysis on site, so referral |
 | Pesticide (organophosphate) poisoning | Bangladesh RCT, 156 patients: rapidly increasing doses plus infusion against bolus dosing ([D6-03-F02](https://pmc.ncbi.nlm.nih.gov/articles/PMC3550249/)) | Check every 5 minutes until signs of atropinisation, then review the infusion every 15 minutes, as in the trial | Next (doubled) atropine step, then an infusion set from the loading total; restart lower after toxicity | Breathing failure; signs of atropine toxicity |

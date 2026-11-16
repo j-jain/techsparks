@@ -1,0 +1,58 @@
+<section id="loop" class="slide">
+<h2 class="headline">On-site doctors run the protocol. Specialists see only the exceptions.</h2>
+<!-- Row: A 0,100,344,210  B 440,100,344,210  C 880,100,344,210  D 1320,100,344,210 ; side mids y 205 ; top mids 172/1492 at y 100 ; bottom mids 612/1052 at y 310
+     Exception lane: E 880,370,440,180 (left mid 880,460 ; top edge point 1052,370) ; loop strip y 36 -->
+<div style="position:relative; width:1664px; height:560px">
+<div class="box" style="left:0px; top:100px; width:344px; height:210px; padding:24px 28px">
+<p class="t32b">1. Camera reads monitor</p>
+<p class="t24">any brand</p>
+</div>
+<div class="box" style="left:440px; top:100px; width:344px; height:210px; padding:24px 28px">
+<p class="t32b">2. Next step proposed</p>
+<p class="t24">from written protocol</p>
+</div>
+<div class="box" style="left:880px; top:100px; width:344px; height:210px; padding:24px 28px">
+<p class="t32b">3. On-site doctor approves</p>
+<p class="t24">one tap</p>
+</div>
+<div class="box" style="left:1320px; top:100px; width:344px; height:210px; padding:24px 28px">
+<p class="t32b">4. Nurse acts</p>
+<p class="t24">timer starts</p>
+</div>
+<div class="box hot" style="left:880px; top:370px; width:440px; height:180px; padding:24px 28px">
+<p class="t32b">Remote specialist</p>
+<p class="t24">approve, change or transfer</p>
+</div>
+<x-connector x1="344" y1="205" x2="440" y2="205" style="color:#111111; border-width:4px"></x-connector>
+<x-connector x1="784" y1="205" x2="880" y2="205" style="color:#111111; border-width:4px"></x-connector>
+<x-connector x1="1224" y1="205" x2="1320" y2="205" style="color:#111111; border-width:4px"></x-connector>
+<x-connector x1="612" y1="310" x2="880" y2="460" route="vh" style="color:#F26522; border-width:4px"></x-connector>
+<x-connector x1="1052" y1="370" x2="1052" y2="310" style="color:#F26522; border-width:4px"></x-connector>
+<x-connector x1="1492" y1="100" x2="1492" y2="36" head="none" style="color:#111111; border-width:4px"></x-connector>
+<x-connector x1="1492" y1="36" x2="172" y2="36" head="none" style="color:#111111; border-width:4px"></x-connector>
+<x-connector x1="172" y1="36" x2="172" y2="100" head="end" style="color:#111111; border-width:4px"></x-connector>
+<p class="t32 muted center" style="position:absolute; left:532px; top:48px; width:600px">Repeat until stable</p>
+<p class="t24b" style="position:absolute; left:256px; top:340px; width:340px; text-align:right">Exceptions: hard stops, off-protocol</p>
+</div>
+<p class="sources">Sources: <a href="https://arxiv.org/abs/2511.23355">Monitor-reading study, arXiv 2025</a> · <a href="https://www.cdsco.gov.in/opencms/export/sites/CDSCO_WEB/Pdf-documents/Guidance-document-on-Medical-Device-Software-under-MDR-2017.pdf">CDSCO software guidance</a> · Models: <a href="https://thebetterindia.com/health-care/cloudphysician-founders-dhruv-joshi-dileep-raman-smart-icu-in-a-box-remote-critical-care-rural-india-10884930">Cloudphysician</a>, <a href="https://www.cadence.care/post/cadences-hypertensionos-software-selected-for-fdas-tempo-to-advance-hypertension-care">Cadence</a></p>
+<p class="pagenum"></p>
+<aside>Say: Every bed runs the same loop. A camera reads whatever monitor the hospital already has. The software proposes the next step, but only from a written protocol. For routine steps, the doctor on site approves it in one tap and the nurse does it. Only exceptions go to the remote specialist: a hard stop the protocol names, or anything off the protocol. The specialist approves, changes the step or sends the patient on, and the on-site doctor confirms. So most steps never need a specialist, which is how one specialist can cover many beds.
+
+How to read the diagram:
+- Black path (1 to 4, repeating): routine steps. No specialist involved. The specialist can see the log but is not asked.
+- Orange path: an exception leaves step 2, goes to the remote specialist, and the decision comes back to the on-site doctor (step 3) to confirm before the nurse acts.
+
+What counts as an exception (OUR DESIGN, set in each protocol file):
+- A hard stop the protocol names. Snakebite: paralysis needing a ventilator, 30 vials given, no ventilator or dialysis on site. Poisoning: breathing failure, signs of atropine toxicity. Sepsis: low BP despite a vasopressor, breathing failure. Heart attack: shock, failed clot-busting. (Idea check, section 5.)
+- Targets still missed after the steps the file allows.
+- The on-site doctor wants to leave the protocol, or a reading the protocol does not cover.
+
+Why the on-site doctor signs routine steps:
+- Every step must be a doctor’s order. No Indian rule lets a nurse change a dose on a standing order (D2-04-F18). Under the Telemedicine Guidelines 2020, the doctor who asks for a teleconsult stays the treating doctor (D6-03-F05, search summary only). So routine steps are the on-site doctor’s tap, and a specialist’s call is confirmed by the on-site doctor. (Idea check, section 7.)
+- Open question for counsel: can the specialist’s approval stand as the order on its own?
+
+Other notes:
+- Camera reading of monitors: a preprint read heart rate, SpO2 and arterial BP from screens with above 98.9% accuracy on 6,498 images. D6-02-F18 (preprint).
+- Product rule: propose, never act. The software never drives a pump (CDSCO Class C reading, D2-04-F03).
+- Coverage target: 80+ patients per specialist, against Cloudphysician’s reported 60 to 80 (D6-02-F04, search summary only). That only works if specialists see exceptions, not every step.</aside>
+</section>

@@ -1,0 +1,55 @@
+<section id="night" class="slide">
+<h2 class="headline">One night: the on-site doctor runs it, the specialist joins once.</h2>
+<!-- Lane 1 (on-site doctor): cards 316 wide, 260 tall, top 0, lefts 280, 636, 992, 1348 ; side mids y 130 ; card 3 bottom mid (1150,260)
+     Lane 2 (specialist): one card 960,320,380,200 (top mid 1150,320) ; dashed idle line y 420 left and right of it -->
+<div style="position:relative; width:1664px; height:560px">
+<p class="t32b" style="position:absolute; left:0px; top:91px; width:240px">On-site doctor</p>
+<p class="t32b" style="position:absolute; left:0px; top:381px; width:240px">Remote specialist</p>
+<div style="position:absolute; left:280px; top:418px; width:660px; height:0px; border-top:4px dashed #595959"></div>
+<div style="position:absolute; left:1360px; top:418px; width:304px; height:0px; border-top:4px dashed #595959"></div>
+<p class="t24" style="position:absolute; left:280px; top:360px; width:600px">Not called until 03:40</p>
+<div class="box" style="left:280px; top:0px; width:316px; height:260px; padding:24px; gap:8px">
+<p class="n44">02:10</p>
+<p class="t32">Poisoned patient arrives</p>
+</div>
+<div class="box" style="left:636px; top:0px; width:316px; height:260px; padding:24px; gap:8px">
+<p class="n44">02:12</p>
+<p class="t32">Approves each dose step</p>
+<p class="t24">every 5 min until stable</p>
+</div>
+<div class="box" style="left:992px; top:0px; width:316px; height:260px; padding:24px; gap:8px; border:6px solid #F26522">
+<p class="n44 accent">03:40</p>
+<p class="t32b">Breathing slows</p>
+<p class="t24b">Hard stop: needs a specialist</p>
+</div>
+<div class="box" style="left:1348px; top:0px; width:316px; height:260px; padding:24px; gap:8px">
+<p class="n44">08:00</p>
+<p class="t32">Signs notes the system wrote</p>
+<p class="t24">case summary and insurance claim</p>
+</div>
+<div class="box hot" style="left:960px; top:320px; width:380px; height:200px; padding:24px; gap:8px">
+<p class="t32b">Joins by video</p>
+<p class="t32">Transfers to a ventilator bed</p>
+</div>
+<x-connector x1="596" y1="130" x2="636" y2="130" style="color:#111111; border-width:4px"></x-connector>
+<x-connector x1="952" y1="130" x2="992" y2="130" style="color:#111111; border-width:4px"></x-connector>
+<x-connector x1="1308" y1="130" x2="1348" y2="130" style="color:#111111; border-width:4px"></x-connector>
+<x-connector x1="1150" y1="260" x2="1150" y2="320" style="color:#F26522; border-width:4px"></x-connector>
+</div>
+<p class="sources">Example night, times illustrative. Dosing based on the <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3550249/">atropine trial, J Med Toxicol 2012</a></p>
+<p class="pagenum"></p>
+<aside>Say: Here is one night in a district ICU. A farmer who drank pesticide arrives at 2:10. The doctor on duty is not an ICU specialist. From 2:12 the system proposes each antidote dose from the written protocol, checking every five minutes and doubling the dose until the patient is stable. Each one is a routine step, so the on-site doctor approves it with one tap. The specialist is not called. At 3:40 the patient’s breathing slows. More doses can’t fix that: the patient may need a ventilator. The protocol marks this as a hard stop, so it goes to the specialist, who joins by video and has the patient moved to the nearest hospital with a free ventilator. By morning the doctor only signs notes the system has already written. One specialist call in the whole night.
+
+How to read the slide:
+- Top row: what the on-site doctor does. Every routine step is that doctor’s tap.
+- Orange card at 03:40: the one moment the written steps can’t handle. That is why the specialist is called.
+- Bottom row: the remote specialist. Dashed means idle. The only call is the orange card under 03:40.
+
+Notes:
+- EXAMPLE from the idea check, section 4. No real patient and no doses shown. The times are illustrative; only the 5-minute check comes from the trial.
+- The on-site doctor is a general duty medical officer, not an intensivist. The nurse gives each dose and taps in pupils and chest sounds from a checklist.
+- Dose stepping follows the trial regimen: atropine doubled every 5 minutes until signs of atropinisation, then an infusion. D6-03-F02 (one open-label trial, Bangladesh, 156 patients).
+- Hard stops in the poisoning pack: breathing failure and signs of atropine toxicity (idea check, section 5). Routine steps are the on-site doctor’s order; the specialist handles exceptions and the on-site doctor confirms (idea check, section 7). That is what makes 80+ patients per specialist possible.
+- Transfer: the system lists the nearest centres with a free ventilator, warns the chosen one with the full case and logs departure and arrival. OUR DESIGN.
+- “Notes the system wrote” means the case summary and the Ayushman Bharat (PMJAY) claim papers, written from the log. OUR DESIGN.</aside>
+</section>
